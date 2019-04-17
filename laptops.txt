@@ -1,0 +1,417 @@
+Acer Aspire 15 R5-571T,Acer,Intel i5-7200U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2016-10-16,https://noteb.com/res/img/models/thumb/t_1_1.jpg,555
+Dell Latitude Rugged 14 5414,Dell,Intel i5-6300U,14.0,1366 x 768,Linux Ubuntu  14.40,Intel HD Graphics 520,2016-10-31,https://noteb.com/res/img/models/thumb/t_64_1.jpg,1400
+Dell Latitude Rugged 14 7414 Extreme,Dell,Intel i3-6100U,14.0,1366 x 768,Linux Ubuntu  14.40,Intel HD Graphics 520,2016-10-31,https://noteb.com/res/img/models/thumb/t_73_1.jpg,3567
+Dell XPS 13 9360,Dell,Intel i7-8550U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2016-10-20,https://noteb.com/res/img/models/thumb/t_87_1.jpg,1164
+HP EliteBook Folio G1,HP,Intel m5-6Y54,12.5,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 515,2016-03-10,https://noteb.com/res/img/models/thumb/t_91_1.jpg,1622
+Lenovo Ideapad 110-15 (DDR4),Lenovo,Intel Pentium 4405U,15.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 510,2016-11-10,https://noteb.com/res/img/models/thumb/t_96_1.jpg,311
+Lenovo Thinkpad P50,Lenovo,Intel i7-6700HQ,15.6,1920 x 1080,Windows Pro 10.00,Nvidia Quadro M1000M,2016-11-04,https://noteb.com/res/img/models/thumb/t_125_1.jpg,1619
+Lenovo Thinkpad P70,Lenovo,Intel i7-6700HQ,17.3,1920 x 1080,Windows Pro 10.00,Nvidia Quadro M600M,2016-11-04,https://noteb.com/res/img/models/thumb/t_127_1.jpg,1589
+HP EliteBook 1040 G3,HP,Intel i5-6200U,14.0,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 520,2016-11-21,https://noteb.com/res/img/models/thumb/t_148_1.jpg,978
+HP EliteBook 820 G3,HP,Intel i5-6200U,12.5,1366 x 768,Windows Pro 10.00,Intel HD Graphics 520,2016-11-22,https://noteb.com/res/img/models/thumb/t_156_1.jpg,540
+HP EliteBook 850 G3,HP,Intel i7-6600U,15.6,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 520,2016-11-23,https://noteb.com/res/img/models/thumb/t_165_1.jpg,1808
+HP x2 210,HP,Intel Atom x5-Z8350 ,10.1,1280 x 800,Windows Pro 10.00,Intel HD 400,2016-11-24,https://noteb.com/res/img/models/thumb/t_168_1.jpg,455
+HP ProBook 640 G2,HP,Intel i5-6200U,14.0,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 520,2016-11-25,https://noteb.com/res/img/models/thumb/t_180_1.jpg,791
+HP Zbook 15u G3,HP,Intel i7-6500U,15.6,1920 x 1080,Windows Pro 10.00,Amd FirePro W4190M,2016-12-02,https://noteb.com/res/img/models/thumb/t_204_1.jpg,644
+HP Zbook 17 G3,HP,Intel i5-6440HQ,17.3,1600 x 900,Windows Home 10.00,Intel HD Graphics 530,2016-12-05,https://noteb.com/res/img/models/thumb/t_206_1.jpg,2721
+HP Chromebook 13 G1,HP,Intel m7-6Y75,13.3,3200 x 1800,Chrome OS  1.00,Intel HD Graphics 515,2016-12-07,https://noteb.com/res/img/models/thumb/t_216_1.jpg,853
+Asus ZenBook UX360,Asus,Intel m3-6Y30,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 515,2016-12-09,https://noteb.com/res/img/models/thumb/t_240_1.jpg,809
+Asus ZenBook UX303,Asus,Intel i5-6200U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 520,2016-12-09,https://noteb.com/res/img/models/thumb/t_250_1.jpg,1013
+Asus ZenBook UX390,Asus,Intel i7-7500U,12.5,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2016-12-12,https://noteb.com/res/img/models/thumb/t_252_1.jpg,1442
+Acer Swift 7 SF713-51,Acer,Intel i5-7Y54,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 615,2016-12-12,https://noteb.com/res/img/models/thumb/t_246_1.jpg,911
+Acer Spin 7 SP714-51,Acer,Intel i7-7Y75,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 615,2016-12-12,https://noteb.com/res/img/models/thumb/t_247_1.jpg,1069
+Acer Chromebook CP5-471,Acer,Intel Celeron 3855U,14.0,1366 x 768,Chrome OS  1.00,Intel HD Graphics 510,2016-12-19,https://noteb.com/res/img/models/thumb/t_262_1.jpg,232
+Acer Predator 15 G9-593,Acer,Intel i7-6700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2016-12-19,https://noteb.com/res/img/models/thumb/t_265_1.jpg,1144
+Asus Chromebook C300,Asus,Intel Celeron N3060,13.3,1366 x 768,Chrome OS  1.00,Intel HD 400,2016-12-23,https://noteb.com/res/img/models/thumb/t_292_1.jpg,242
+Asus Chromebook C202,Asus,Intel Celeron N3060,11.6,1366 x 768,Chrome OS  1.00,Intel HD 400,2016-12-23,https://noteb.com/res/img/models/thumb/t_293_1.jpg,206
+Asus 2-in-1 Q524,Asus,Intel i7-7500U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2016-12-23,https://noteb.com/res/img/models/thumb/t_294_1.jpg,764
+Asus 2-in-1 Q324,Asus,Intel i7-7500U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2016-12-27,https://noteb.com/res/img/models/thumb/t_306_1.jpg,1009
+Asus 2-in-1 Q304,Asus,Intel i5-6200U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 520,2016-12-27,https://noteb.com/res/img/models/thumb/t_307_1.jpg,505
+Asus 2-in-1 Q534,Asus,Intel i7-7500U,15.6,3840 x 2160,Windows Home 10.00,Nvidia GeForce GTX 950M,2016-12-27,https://noteb.com/res/img/models/thumb/t_308_1.jpg,1468
+Asus 2-in-1 Q504,Asus,Intel i5-7200U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2016-12-27,https://noteb.com/res/img/models/thumb/t_309_1.jpg,587
+Asus Transformer T101,Asus,Intel Atom x5-Z8350 ,10.1,1280 x 800,Windows Home 10.00,Intel HD 400,2016-12-28,https://noteb.com/res/img/models/thumb/t_314_1.jpg,248
+Asus Transformer T102,Asus,Intel Atom x5-Z8350 ,10.1,1280 x 800,Windows Home 10.00,Intel HD 400,2016-12-28,https://noteb.com/res/img/models/thumb/t_315_1.jpg,363
+Asus Transformer TP200,Asus,Intel Celeron N3050,11.6,1366 x 768,Windows Home 10.00,Intel HD Graphics Braswell,2016-12-29,https://noteb.com/res/img/models/thumb/t_320_1.jpg,272
+Asus ROG GL753,Asus,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050,2017-01-04,https://noteb.com/res/img/models/thumb/t_325_1.jpg,1125
+Acer Aspire 14 R5-471T,Acer,Intel i5-6200U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 520,2017-01-04,https://noteb.com/res/img/models/thumb/t_349_1.jpg,556
+Asus VivoBook Flip 15 TP501,Asus,Intel i7-6500U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-01-09,https://noteb.com/res/img/models/thumb/t_351_1.jpg,667
+Acer Aspire 15 R5-571TG,Acer,Intel i5-7200U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-01-09,https://noteb.com/res/img/models/thumb/t_357_1.jpg,715
+Acer Aspire 13 R7-372T,Acer,Intel i5-6200U,13.3,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 520,2017-01-09,https://noteb.com/res/img/models/thumb/t_359_1.jpg,2230
+Asus VivoBook Flip 12 TP201,Asus,Intel Celeron N3060,11.6,1366 x 768,Windows Home 10.00,Intel HD 400,2017-01-09,https://noteb.com/res/img/models/thumb/t_361_1.jpg,395
+Samsung Notebook NP900X5,Samsung,Intel i7-7500U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-01-10,https://noteb.com/res/img/models/thumb/t_366_1.jpg,1447
+Samsung Notebook NP900X3N,Samsung,Intel i5-7200U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-01-10,https://noteb.com/res/img/models/thumb/t_367_1.jpg,1013
+Samsung Notebook Spin NP940X3L,Samsung,Intel i7-6500U,13.3,3200 x 1800,Windows Home 10.00,Intel HD Graphics 520,2017-01-10,https://noteb.com/res/img/models/thumb/t_374_1.jpg,1215
+Fujitsu Lifebook E736,Fujitsu,Intel i5-6200U,13.3,1366 x 768,Windows Pro 10.00,Intel HD Graphics 520,2017-01-12,https://noteb.com/res/img/models/thumb/t_385_1.jpg,1503
+Fujitsu Lifebook E546,Fujitsu,Intel i3-6100U,14.0,1366 x 768,Windows Pro 10.00,Intel HD Graphics 520,2017-01-12,https://noteb.com/res/img/models/thumb/t_389_1.jpg,1285
+Razer Blade Stealth 2018,Razer,Intel i7-8550U,13.3,3200 x 1800,Windows Home 10.00,Intel HD Graphics 620,2017-01-12,https://noteb.com/res/img/models/thumb/t_391_1.jpg,1418
+Clevo P650,Clevo,Intel i7-7700HQ,15.6,1920 x 1080,No OS  0.00,Nvidia GeForce GTX 1070,2017-01-16,https://noteb.com/res/img/models/thumb/t_401_1.jpg,1629
+Apple MacBook 2017,Apple,Intel m3-7Y32,12.0,2304 x 1440,macOS  10.14,Intel HD Graphics 615,2017-01-16,https://noteb.com/res/img/models/thumb/t_405_1.jpg,1315
+MSI Prestige PL60,MSI,Intel i5-7200U,15.6,1920 x 1080,Windows Pro 10.00,Nvidia GeForce GTX 1050,2017-01-20,https://noteb.com/res/img/models/thumb/t_420_1.jpg,1018
+MSI Prestige PE70,MSI,Intel i7-7700HQ,17.3,1920 x 1080,Windows Pro 10.00,Nvidia GeForce GTX 1050,2017-01-20,https://noteb.com/res/img/models/thumb/t_421_1.jpg,1852
+MSI Gaming GT73,MSI,Intel i7-7820HK,17.3,3840 x 2160,Windows Home 10.00,Nvidia GeForce GTX 1070,2017-01-23,https://noteb.com/res/img/models/thumb/t_430_1.jpg,2313
+MSI Gaming GS43,MSI,Intel i7-7700HQ,14.0,1920 x 1080,Windows Pro 10.00,Nvidia GeForce GTX 1060,2017-01-23,https://noteb.com/res/img/models/thumb/t_433_1.jpg,2430
+MSI Gaming GT72S,MSI,Intel i7-6820HK,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 980M,2017-01-24,https://noteb.com/res/img/models/thumb/t_441_1.jpg,4273
+MSI Gaming GL72M,MSI,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050,2017-01-25,https://noteb.com/res/img/models/thumb/t_452_1.jpg,860
+MSI Gaming GP62,MSI,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2017-01-25,https://noteb.com/res/img/models/thumb/t_453_1.jpg,1555
+MSI Gaming GL62M,MSI,Intel i5-7300HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050,2017-01-25,https://noteb.com/res/img/models/thumb/t_455_1.jpg,832
+Apple MacBook Air 2017,Apple,Intel i5-5350U,13.3,1440 x 900,macOS  10.14,Intel HD Graphics 6000,2017-02-06,https://noteb.com/res/img/models/thumb/t_498_1.jpg,1011
+Dell Latitude Rugged 12 7214 Extreme,Dell,Intel i3-6100U,11.6,1366 x 768,Linux Ubuntu  14.40,Intel HD Graphics 520,2017-02-10,https://noteb.com/res/img/models/thumb/t_506_1.jpg,3467
+Lenovo Thinkpad X1 Carbon (5th gen),Lenovo,Intel i5-7300U,14.0,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2017-02-14,https://noteb.com/res/img/models/thumb/t_518_1.jpg,1295
+HP ProBook 640 G3,HP,Intel i5-6200U,14.0,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 520,2016-11-25,https://noteb.com/res/img/models/thumb/t_180_1.jpg,791
+Panasonic Toughbook 31,Panasonic,Intel m5-6Y57,10.1,1920 x 1200,Windows Pro 10.00,Intel HD Graphics 515,2017-02-16,https://noteb.com/res/img/models/thumb/t_516_1.jpg,3014
+HP EliteBook x360 1030 G2,HP,Intel i7-7500U,13.3,3840 x 2160,Windows Pro 10.00,Intel HD Graphics 620,2017-02-15,https://noteb.com/res/img/models/thumb/t_523_1.jpg,2208
+HP ProBook 11 x360 G1,HP,Intel Celeron N3350,11.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 500,2017-02-16,https://noteb.com/res/img/models/thumb/t_512_1.jpg,560
+Panasonic Toughbook 54,Panasonic,Intel m5-6Y57,10.1,1920 x 1200,Windows Pro 10.00,Intel HD Graphics 515,2017-02-16,https://noteb.com/res/img/models/thumb/t_516_1.jpg,3014
+HP ProBook x2 612 G2,HP,Intel Pentium 4410Y,12.0,1920 x 1280,No OS  0.00,Intel HD Graphics 615,2017-02-16,https://noteb.com/res/img/models/thumb/t_514_1.jpg,1572
+HP Zbook 15u G4,HP,Intel i7-6500U,15.6,1920 x 1080,Windows Pro 10.00,Amd FirePro W4190M,2016-12-02,https://noteb.com/res/img/models/thumb/t_204_1.jpg,644
+Panasonic Toughbook 20,Panasonic,Intel m5-6Y57,10.1,1920 x 1200,Windows Pro 10.00,Intel HD Graphics 515,2017-02-16,https://noteb.com/res/img/models/thumb/t_516_1.jpg,3014
+Panasonic Toughbook FZ-Q2,Panasonic,Intel m5-6Y57,12.5,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 515,2017-02-17,https://noteb.com/res/img/models/thumb/t_525_1.jpg,2057
+HP EliteBook 820 G4,HP,Intel i5-6200U,12.5,1366 x 768,Windows Pro 10.00,Intel HD Graphics 520,2016-11-22,https://noteb.com/res/img/models/thumb/t_156_1.jpg,540
+HP EliteBook 745 G4,HP,Amd A10 PRO-8730B,14.0,1920 x 1080,Windows Pro 10.00,Amd Radeon R5 (Bristol Ridge PRO),2017-02-20,https://noteb.com/res/img/models/thumb/t_530_1.jpg,922
+HP EliteBook 850 G4,HP,Intel i7-6600U,15.6,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 520,2016-11-23,https://noteb.com/res/img/models/thumb/t_165_1.jpg,1808
+Razer Blade 14 2017,Razer,Intel i7-7700HQ,14.0,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2017-02-22,https://noteb.com/res/img/models/thumb/t_540_1.jpg,2319
+Asus Transformer T304,Asus,Intel i7-7500U,12.5,2160 x 1440,Windows Pro 10.00,Intel HD Graphics 620,2017-02-22,https://noteb.com/res/img/models/thumb/t_541_1.jpg,1481
+Acer Aspire Switch Alpha 12 SA5-271,Acer,Intel i7-6500U,12.0,2160 x 1440,Windows Home 10.00,Intel HD Graphics 520,2017-02-22,https://noteb.com/res/img/models/thumb/t_542_1.jpg,810
+Asus Transformer T302,Asus,Intel m3-6Y30,12.5,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 515,2017-02-23,https://noteb.com/res/img/models/thumb/t_544_1.jpg,1136
+Acer Predator G9-793,Acer,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1070,2017-02-24,https://noteb.com/res/img/models/thumb/t_550_1.jpg,1620
+Dell Chromebook 13 3380 Education,Dell,Intel Celeron 3855U,13.3,1366 x 768,Chrome OS  1.00,Intel HD Graphics 510,2017-02-24,https://noteb.com/res/img/models/thumb/t_551_1.jpg,314
+Dell Chromebook 11 3180 Education,Dell,Intel Celeron N3060,11.6,1366 x 768,Chrome OS  1.00,Intel HD 400,2017-02-24,https://noteb.com/res/img/models/thumb/t_552_1.jpg,212
+Microsoft Surface Pro 4,Microsoft,Intel i5-6300U,12.3,2736 x 1824,Windows Pro 10.00,Intel HD Graphics 520,2017-02-24,https://noteb.com/res/img/models/thumb/t_553_1.jpg,758
+Dell Chromebook 11 3189 Education 2-in-1,Dell,Intel Celeron N3060,11.6,1366 x 768,Chrome OS  1.00,Intel HD 400,2017-02-24,https://noteb.com/res/img/models/thumb/t_554_1.jpg,323
+Samsung Notebook Odyssey NP800G5,Samsung,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050,2017-02-27,https://noteb.com/res/img/models/thumb/t_557_1.jpg,1215
+Dell Inspiron 15 3567,Dell,Intel i3-7130U,15.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2017-02-27,https://noteb.com/res/img/models/thumb/t_560_1.jpg,374
+Asus VivoBook E200,Asus,Intel Atom x5-Z8350 ,11.6,1366 x 768,Windows Home 10.00,Intel HD 400,2017-03-01,https://noteb.com/res/img/models/thumb/t_575_1.jpg,494
+Acer Swift 5 SF514-51,Acer,Intel i7-7500U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-03-01,https://noteb.com/res/img/models/thumb/t_576_1.jpg,1518
+Fujitsu Lifebook U757,Fujitsu,Intel i5-7200U,15.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2017-03-01,https://noteb.com/res/img/models/thumb/t_579_1.jpg,1711
+Fujitsu Lifebook U747,Fujitsu,Intel i5-7200U,14.0,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2017-03-01,https://noteb.com/res/img/models/thumb/t_580_1.jpg,1711
+Fujitsu Lifebook U727,Fujitsu,Intel i5-7200U,12.5,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2017-03-01,https://noteb.com/res/img/models/thumb/t_582_1.jpg,1711
+Fujitsu Lifebook E557,Fujitsu,Intel i3-7100U,15.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2017-03-02,https://noteb.com/res/img/models/thumb/t_593_1.jpg,1317
+Asus VivoBook 15 X540SA,Asus,Intel Pentium N3700,15.6,1366 x 768,Windows Home 10.00,Intel HD Graphics Braswell,2017-03-03,https://noteb.com/res/img/models/thumb/t_594_1.jpg,340
+Fujitsu Lifebook E547,Fujitsu,Intel i3-7100U,14.0,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2017-03-03,https://noteb.com/res/img/models/thumb/t_597_1.jpg,1265
+Fujitsu Lifebook A557,Fujitsu,Intel i5-7200U,15.6,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2017-03-03,https://noteb.com/res/img/models/thumb/t_600_1.jpg,627
+Acer Predator GX-792,Acer,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1080,2017-03-07,https://noteb.com/res/img/models/thumb/t_609_1.jpg,2025
+Acer Aspire VX5-591G,Acer,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050 Ti,2017-03-08,https://noteb.com/res/img/models/thumb/t_613_1.jpg,1063
+Acer Swift 3 SF314-51,Acer,Intel i5-7200U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-03-08,https://noteb.com/res/img/models/thumb/t_616_1.jpg,699
+Dell Precision 15 3520,Dell,Intel i5-6300HQ,15.6,1920 x 1080,Linux Ubuntu  16.04,Nvidia Quadro M620,2017-03-13,https://noteb.com/res/img/models/thumb/t_631_1.jpg,852
+Dell Precision 15 5520,Dell,Intel i7-7820HQ,15.6,3840 x 2160,Windows Pro 10.00,Intel HD Graphics 630,2017-03-13,https://noteb.com/res/img/models/thumb/t_632_1.jpg,2226
+LG gram 14 Z970,LG,Intel i7-7500U,14.0,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2017-03-14,https://noteb.com/res/img/models/thumb/t_639_1.jpg,1698
+Toshiba Portege Z30-C,Toshiba,Intel i5-6300U,13.3,1366 x 768,Windows Pro 10.00,Intel HD Graphics 520,2017-03-15,https://noteb.com/res/img/models/thumb/t_643_1.jpg,1139
+Porsche Design Book One,Porsche,Intel i7-7500U,13.3,3200 x 1800,Windows Pro 10.00,Intel HD Graphics 620,2017-03-15,https://noteb.com/res/img/models/thumb/t_644_1.jpg,2526
+Toshiba Tecra A40-C,Toshiba,Intel i5-6200U,14.0,1366 x 768,Windows Pro 10.00,Intel HD Graphics 520,2017-03-16,https://noteb.com/res/img/models/thumb/t_656_1.jpg,838
+Acer Aspire F5-573,Acer,Intel i7-7500U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-03-16,https://noteb.com/res/img/models/thumb/t_657_1.jpg,686
+Toshiba Tecra A50-D,Toshiba,Intel i5-7200U,15.6,1366 x 768,Windows Pro 10.00,Intel HD Graphics 620,2017-03-17,https://noteb.com/res/img/models/thumb/t_658_1.jpg,932
+Toshiba Tecra Z40,Toshiba,Intel i5-6300U,14.0,1366 x 768,Windows Pro 10.00,Intel HD Graphics 520,2017-03-17,https://noteb.com/res/img/models/thumb/t_659_1.jpg,1168
+Toshiba Tecra Z50-C,Toshiba,Intel i5-6200U,15.6,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 520,2017-03-17,https://noteb.com/res/img/models/thumb/t_660_1.jpg,1201
+Lenovo Ideapad Legion Y520,Lenovo,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050 Ti,2017-03-17,https://noteb.com/res/img/models/thumb/t_661_1.jpg,1045
+Acer Aspire Nitro VN7-793G,Acer,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2017-03-20,https://noteb.com/res/img/models/thumb/t_667_1.jpg,1349
+Medion Erazer P7647,Medion,Intel i5-7200U,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 950M,2017-03-20,https://noteb.com/res/img/models/thumb/t_669_1.jpg,852
+Fujitsu Lifebook T937,Fujitsu,Intel i5-7300U,13.3,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2017-03-27,https://noteb.com/res/img/models/thumb/t_678_1.jpg,1960
+Fujitsu Lifebook P727,Fujitsu,Intel i3-7100U,12.5,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2017-03-28,https://noteb.com/res/img/models/thumb/t_680_1.jpg,1720
+Fujitsu Stylistic Q737,Fujitsu,Intel i5-7200U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-03-28,https://noteb.com/res/img/models/thumb/t_682_1.jpg,1755
+Dell Inspiron 15 5565,Dell,Amd FX 9800P,15.6,1920 x 1080,Windows Home 10.00,Amd Radeon R7 M445,2017-04-03,https://noteb.com/res/img/models/thumb/t_687_1.jpg,390
+Toshiba Tecra A40-D,Toshiba,Intel i5-7200U,14.0,1366 x 768,Windows Pro 10.00,Intel HD Graphics 620,2017-03-16,https://noteb.com/res/img/models/thumb/t_656_1.jpg,1063
+Toshiba Tecra A50-C,Toshiba,Intel i5-6200U,15.6,1366 x 768,Windows Pro 10.00,Intel HD Graphics 520,2017-03-17,https://noteb.com/res/img/models/thumb/t_658_1.jpg,1009
+Toshiba Tecra Z50-D,Toshiba,Intel i5-7200U,15.6,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2017-03-17,https://noteb.com/res/img/models/thumb/t_660_1.jpg,1298
+Toshiba Portege A30-D,Toshiba,Intel i5-7200U,13.3,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2017-04-06,https://noteb.com/res/img/models/thumb/t_688_1.jpg,885
+Toshiba Portege A30-C,Toshiba,Intel i5-6200U,13.3,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 520,2017-04-06,https://noteb.com/res/img/models/thumb/t_689_1.jpg,879
+Acer Aspire VX5-591G,Acer,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050 Ti,2017-03-08,https://noteb.com/res/img/models/thumb/t_613_1.jpg,1063
+Asus ROG FX553,Asus,Intel i5-7300HQ,15.6,1920 x 1080,No OS  0.00,Nvidia GeForce GTX 1050,2017-04-21,https://noteb.com/res/img/models/thumb/t_1737_1.jpg,660
+Asus ZenBook UX510,Asus,Intel i7-7500U,15.6,1920 x 1080,Windows Pro 10.00,Nvidia GeForce GTX 960M,2017-04-27,https://noteb.com/res/img/models/thumb/t_690_1.jpg,800
+Acer TravelMate B TMB117-M,Acer,Intel Pentium N3710,11.6,1366 x 768,No OS  0.00,Intel HD 405,2017-04-28,https://noteb.com/res/img/models/thumb/t_692_1.jpg,348
+Asus ROG GL502,Asus,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1070,2017-05-03,https://noteb.com/res/img/models/thumb/t_697_1.jpg,2014
+Lenovo Ideapad Miix 510,Lenovo,Intel i5-7200U,12.2,1920 x 1200,Windows Home 10.00,Intel HD Graphics 620,2017-05-03,https://noteb.com/res/img/models/thumb/t_699_1.jpg,823
+Lenovo Yoga 720-13,Lenovo,Intel i5-8250U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-05-04,https://noteb.com/res/img/models/thumb/t_700_1.jpg,719
+Asus ROG GL502,Asus,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1070,2017-05-03,https://noteb.com/res/img/models/thumb/t_697_1.jpg,2014
+Asus ROG GL702,Asus,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1070,2017-05-05,https://noteb.com/res/img/models/thumb/t_709_1.jpg,1553
+Dell Latitude 11 3180 Education (DDR3),Dell,Intel Pentium N4200,11.6,1366 x 768,Windows Pro 10.00,Intel HD Graphics 505,2017-05-05,https://noteb.com/res/img/models/thumb/t_710_1.jpg,384
+Asus ROG GL502VY,Asus,Intel i7-6700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 980M,2017-05-05,https://noteb.com/res/img/models/thumb/t_715_1.jpg,1720
+Dell Latitude 13 3380 Education,Dell,Intel i3-6006U,13.3,1366 x 768,Windows Pro 10.00,Intel HD Graphics 520,2017-05-05,https://noteb.com/res/img/models/thumb/t_716_1.jpg,617
+Acer Chromebook 14 CB3-431,Acer,Intel Celeron N3160,14.0,1920 x 1080,Chrome OS  1.00,Intel HD 400,2017-05-05,https://noteb.com/res/img/models/thumb/t_717_1.jpg,243
+Lenovo Ideapad Legion Y720,Lenovo,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2017-05-09,https://noteb.com/res/img/models/thumb/t_730_1.jpg,1134
+Lenovo Thinkpad P51,Lenovo,Intel i7-7820HQ,15.6,1920 x 1080,Windows Pro 10.00,Nvidia Quadro M1200,2017-05-09,https://noteb.com/res/img/models/thumb/t_732_1.jpg,1195
+Lenovo Ideapad 710S Plus Touch,Lenovo,Intel i7-7500U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-05-10,https://noteb.com/res/img/models/thumb/t_735_1.jpg,1083
+Asus ROG GL553,Asus,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050 Ti,2017-01-04,https://noteb.com/res/img/models/thumb/t_739_1.jpg,1348
+Lenovo Thinkpad P51,Lenovo,Intel i7-7820HQ,15.6,1920 x 1080,Windows Pro 10.00,Nvidia Quadro M1200,2017-05-09,https://noteb.com/res/img/models/thumb/t_732_1.jpg,1195
+Lenovo Thinkpad P71,Lenovo,Intel i7-7700HQ,17.3,1920 x 1080,Windows Pro 10.00,Nvidia Quadro M620,2017-05-15,https://noteb.com/res/img/models/thumb/t_742_1.jpg,2682
+Acer Aspire E5-575,Acer,Intel i7-7500U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-01-02,https://noteb.com/res/img/models/thumb/t_340_1.jpg,547
+Gigabyte Sabre 17,Gigabyte,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050 Ti,2017-05-19,https://noteb.com/res/img/models/thumb/t_748_1.jpg,1219
+Asus ZenBook UX330,Asus,Intel i5-7200U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-05-02,https://noteb.com/res/img/models/thumb/t_695_1.jpg,1062
+Asus ZenBook UX310,Asus,Intel i7-7500U,13.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-05-19,https://noteb.com/res/img/models/thumb/t_749_1.jpg,1379
+Dell XPS 15 9560,Dell,Intel i5-7300HQ,15.6,3840 x 2160,Windows Home 10.00,Nvidia GeForce GTX 1050,2017-02-13,https://noteb.com/res/img/models/thumb/t_508_1.jpg,1416
+Xiaomi Air 13,Xiaomi,Intel i5-7200U,13.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce MX150,2017-05-23,https://noteb.com/res/img/models/thumb/t_753_1.jpg,1057
+Acer Predator 15 G9-593,Acer,Intel i7-6700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2016-12-19,https://noteb.com/res/img/models/thumb/t_265_1.jpg,1144
+Acer Spin 5 SP513-51,Acer,Intel i5-7200U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-05-24,https://noteb.com/res/img/models/thumb/t_756_1.jpg,758
+Asus ZenBook UX303,Asus,Intel i5-6200U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 520,2016-12-09,https://noteb.com/res/img/models/thumb/t_250_1.jpg,1013
+Samsung Notebook Odyssey NP800G5,Samsung,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050,2017-02-27,https://noteb.com/res/img/models/thumb/t_557_1.jpg,1215
+Asus ZenBook UX490,Asus,Intel i5-7200U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-01-05,https://noteb.com/res/img/models/thumb/t_350_1.jpg,1200
+Asus ROG GL553,Asus,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050 Ti,2017-01-04,https://noteb.com/res/img/models/thumb/t_739_1.jpg,1348
+Acer Aspire Nitro VN7-793G,Acer,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2017-03-20,https://noteb.com/res/img/models/thumb/t_667_1.jpg,1349
+Lenovo Yoga 720-15,Lenovo,Intel i7-7700HQ,15.6,3840 x 2160,Windows Home 10.00,Nvidia GeForce GTX 1050,2017-03-21,https://noteb.com/res/img/models/thumb/t_672_1.jpg,1150
+HP Envy 13t,HP,Intel i5-7200U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-05-30,https://noteb.com/res/img/models/thumb/t_764_1.jpg,1013
+Acer Predator 15 G9-592,Acer,Intel i7-6700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 980M,2017-05-19,https://noteb.com/res/img/models/thumb/t_750_1.jpg,2355
+Acer Predator Helios 300 G3-571,Acer,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2017-06-07,https://noteb.com/res/img/models/thumb/t_769_1.jpg,1214
+Apple MacBook Pro 13 (H12017),Apple,Intel i5-7360U,13.3,2560 x 1600,macOS  10.14,Intel Iris Plus Graphics 640,2017-02-06,https://noteb.com/res/img/models/thumb/t_499_1.jpg,1348
+Lenovo Thinkpad P50,Lenovo,Intel i7-6700HQ,15.6,1920 x 1080,Windows Pro 10.00,Nvidia Quadro M1000M,2016-11-04,https://noteb.com/res/img/models/thumb/t_125_1.jpg,1619
+HP ProBook 450 G3,HP,Intel i5-6200U,15.6,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 520,2016-11-28,https://noteb.com/res/img/models/thumb/t_188_1.jpg,1518
+Lenovo Yoga 520-14,Lenovo,Intel i5-7200U,14.0,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-06-19,https://noteb.com/res/img/models/thumb/t_779_1.jpg,733
+Razer Blade 17 Pro 2017,Razer,Intel i7-7820HK,17.3,3840 x 2160,Windows Home 10.00,Nvidia GeForce GTX 1080,2017-06-21,https://noteb.com/res/img/models/thumb/t_781_1.jpg,2987
+HP 250 G6,HP,Intel i5-7200U,15.6,1366 x 768,Windows Pro 10.00,Intel HD Graphics 620,2017-06-23,https://noteb.com/res/img/models/thumb/t_786_1.jpg,504
+HP 255 G6,HP,Amd A6-9220,15.6,1366 x 768,Windows Pro 10.00,Amd Radeon R4 (Bristol-Ridge),2017-06-23,https://noteb.com/res/img/models/thumb/t_787_1.jpg,591
+Dell Inspiron 15 7567 Gaming,Dell,Intel i5-7300HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050,2017-02-27,https://noteb.com/res/img/models/thumb/t_558_1.jpg,692
+Asus 2-in-1 Q325,Asus,Intel i7-7500U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-06-27,https://noteb.com/res/img/models/thumb/t_793_1.jpg,1013
+Toshiba Portege X20W,Toshiba,Intel i5-7200U,12.5,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2017-03-15,https://noteb.com/res/img/models/thumb/t_647_1.jpg,1400
+Toshiba Portege X30-D13,Toshiba,Intel i5-7300U,13.3,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2017-06-28,https://noteb.com/res/img/models/thumb/t_794_1.jpg,1262
+Toshiba Tecra X40-D,Toshiba,Intel i5-7300U,14.0,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2017-06-28,https://noteb.com/res/img/models/thumb/t_795_1.jpg,1346
+Fujitsu Lifebook U937,Fujitsu,Intel i5-7300U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-06-29,https://noteb.com/res/img/models/thumb/t_798_1.jpg,1974
+Asus VivoBook F556,Asus,Intel i5-7200U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-05-26,https://noteb.com/res/img/models/thumb/t_762_1.jpg,1518
+Asus ZenBook UX360,Asus,Intel m3-6Y30,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 515,2016-12-09,https://noteb.com/res/img/models/thumb/t_240_1.jpg,809
+Asus ROG FX502,Asus,Intel i5-6300HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2017-05-03,https://noteb.com/res/img/models/thumb/t_698_1.jpg,1053
+Asus ROG GL753,Asus,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050,2017-01-04,https://noteb.com/res/img/models/thumb/t_325_1.jpg,1125
+Asus ROG GL502,Asus,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1070,2017-05-03,https://noteb.com/res/img/models/thumb/t_697_1.jpg,2014
+Asus ROG Zephyrus GX501,Asus,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1070 Max-Q,2017-07-05,https://noteb.com/res/img/models/thumb/t_799_1.jpg,952
+Asus ZenBook UX510,Asus,Intel i7-7500U,15.6,1920 x 1080,Windows Pro 10.00,Nvidia GeForce GTX 960M,2017-04-27,https://noteb.com/res/img/models/thumb/t_690_1.jpg,800
+Asus PRO P2540,Asus,Intel i3-7100U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-07-06,https://noteb.com/res/img/models/thumb/t_806_1.jpg,526
+Asus VivoBook Flip 12 TP203NAH,Asus,Intel Pentium N4200,11.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 505,2017-07-06,https://noteb.com/res/img/models/thumb/t_807_1.jpg,292
+Asus PRO B8230,Asus,Intel i7-6500U,12.5,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 520,2017-07-06,https://noteb.com/res/img/models/thumb/t_808_1.jpg,753
+Asus ZenBook UX310,Asus,Intel i7-7500U,13.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-05-19,https://noteb.com/res/img/models/thumb/t_749_1.jpg,1379
+Asus PRO B8430,Asus,Intel i5-6200U,14.0,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 520,2017-07-06,https://noteb.com/res/img/models/thumb/t_810_1.jpg,706
+Asus VivoBook Max X541,Asus,Intel Celeron N3060,15.6,1366 x 768,No OS  0.00,Intel HD 400,2017-07-06,https://noteb.com/res/img/models/thumb/t_812_1.jpg,942
+Asus PRO B9440,Asus,Intel i7-7500U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-07-07,https://noteb.com/res/img/models/thumb/t_814_1.jpg,765
+Asus VivoBook 15 X556,Asus,Intel i7-7500U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-07-07,https://noteb.com/res/img/models/thumb/t_821_1.jpg,849
+Asus VivoBook S15 S510,Asus,Intel i5-7200U,15.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2017-07-07,https://noteb.com/res/img/models/thumb/t_822_1.jpg,1046
+Asus ZenBook UX430,Asus,Intel i7-7500U,14.0,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-07-10,https://noteb.com/res/img/models/thumb/t_824_1.jpg,2024
+Asus ZenBook UX410,Asus,Intel i5-8250U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-07-10,https://noteb.com/res/img/models/thumb/t_825_1.jpg,849
+Asus VivoBook Pro 15 N580,Asus,Intel i7-7700HQ,15.6,3840 x 2160,Windows Home 10.00,Nvidia GeForce GTX 1050,2017-07-10,https://noteb.com/res/img/models/thumb/t_829_1.jpg,1033
+Asus ZenBook UX360,Asus,Intel m3-6Y30,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 515,2016-12-09,https://noteb.com/res/img/models/thumb/t_240_1.jpg,809
+Asus X series X751,Asus,Intel Pentium N4200,17.3,1600 x 900,Windows Home 10.00,Intel HD Graphics 505,2017-07-10,https://noteb.com/res/img/models/thumb/t_831_1.jpg,548
+Asus ROG FX550IU,Asus,Amd FX 9830P,15.6,1920 x 1080,Windows Home 10.00,Amd Radeon RX 460,2017-07-10,https://noteb.com/res/img/models/thumb/t_832_1.jpg,793
+Asus Chromebook C302,Asus,Intel m3-6Y30,12.5,1920 x 1080,Chrome OS  1.00,Intel HD Graphics 515,2017-01-01,https://noteb.com/res/img/models/thumb/t_833_1.jpg,507
+Dell Vostro 15 5568,Dell,Intel i5-7200U,15.6,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2017-07-11,https://noteb.com/res/img/models/thumb/t_835_1.jpg,612
+Dell Vostro 15 3568,Dell,Intel i5-7200U,15.6,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2017-07-11,https://noteb.com/res/img/models/thumb/t_837_1.jpg,552
+Dell Inspiron 15 3565,Dell,Amd A6-9225,15.6,1366 x 768,Windows Home 10.00,Amd Radeon R4 (Bristol-Ridge),2017-07-11,https://noteb.com/res/img/models/thumb/t_840_1.jpg,367
+Dell Inspiron 15 5566,Dell,Intel i7-7500U,15.6,1366 x 768,Windows Pro 10.00,Intel HD Graphics 620,2017-07-11,https://noteb.com/res/img/models/thumb/t_842_1.jpg,536
+Dell Latitude 12 7285 2-in-1,Dell,Intel i7-7Y75,12.3,2880 x 1920,Windows Pro 10.00,Intel HD Graphics 615,2017-07-12,https://noteb.com/res/img/models/thumb/t_844_1.jpg,1877
+Dell Inspiron 15 5578 2-in-1,Dell,Intel i5-7200U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2016-10-18,https://noteb.com/res/img/models/thumb/t_29_1.jpg,566
+Acer Predator Helios 300 PH317-51,Acer,Intel i5-7300HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050 Ti,2017-06-07,https://noteb.com/res/img/models/thumb/t_769_1.jpg,1100
+Acer Predator Helios 300 G3-572,Acer,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2017-06-07,https://noteb.com/res/img/models/thumb/t_769_1.jpg,1325
+Acer Predator GX-792,Acer,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1080,2017-03-07,https://noteb.com/res/img/models/thumb/t_609_1.jpg,2025
+Acer Chromebook 11 N7 CB311,Acer,Intel Celeron N3060,11.6,1366 x 768,Chrome OS  1.00,Intel HD 400,2017-07-25,https://noteb.com/res/img/models/thumb/t_847_1.jpg,223
+Acer Chromebook CB5-571,Acer,Intel Celeron 3205U,15.6,1920 x 1080,Chrome OS  1.00,Intel HD Graphics Broadwell,2017-07-25,https://noteb.com/res/img/models/thumb/t_848_1.jpg,319
+Acer Chromebook R 11 CB5-132T,Acer,Intel Celeron N3060,11.6,1366 x 768,Chrome OS  1.00,Intel HD 400,2017-07-25,https://noteb.com/res/img/models/thumb/t_849_1.jpg,254
+Acer Chromebook Spin 11 R751TN,Acer,Intel Celeron N3350,11.6,1366 x 768,Chrome OS  1.00,Intel HD Graphics 500,2017-07-25,https://noteb.com/res/img/models/thumb/t_850_1.jpg,409
+Acer Aspire A315-51,Acer,Intel i3-7100U,15.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2017-07-26,https://noteb.com/res/img/models/thumb/t_854_1.jpg,388
+Acer Aspire Switch SW1-011,Acer,Intel Atom x5-Z8350 ,10.1,1280 x 800,Windows Home 10.00,Intel HD 400,2017-07-26,https://noteb.com/res/img/models/thumb/t_855_1.jpg,230
+Acer Aspire Switch SW5-017,Acer,Intel Atom x5-Z8350 ,10.1,1280 x 800,Windows Home 10.00,Intel HD 400,2017-07-27,https://noteb.com/res/img/models/thumb/t_857_1.jpg,396
+Acer Aspire ES1-572,Acer,Intel i5-7200U,15.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2017-07-28,https://noteb.com/res/img/models/thumb/t_858_1.jpg,636
+Acer Aspire S5-371,Acer,Intel i3-6100U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 520,2017-03-15,https://noteb.com/res/img/models/thumb/t_652_1.jpg,608
+Acer Aspire A315-31,Acer,Intel Pentium N4200,15.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 505,2017-07-31,https://noteb.com/res/img/models/thumb/t_859_1.jpg,319
+Acer Aspire Nitro 5 AN515-51,Acer,Intel i5-7300HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050 Ti,2017-07-31,https://noteb.com/res/img/models/thumb/t_860_1.jpg,728
+Acer Aspire Switch 3 2-in-1 SW312-31,Acer,Intel Pentium N4200,12.2,1920 x 1200,Windows Home 10.00,Intel HD Graphics 505,2017-07-31,https://noteb.com/res/img/models/thumb/t_861_1.jpg,405
+Acer Aspire Switch 12 S 2-in-1 SW7-272,Acer,Intel m5-6Y54,12.5,1920 x 1080,Windows Home 10.00,Intel HD Graphics 515,2017-07-31,https://noteb.com/res/img/models/thumb/t_862_1.jpg,391
+Acer Aspire Switch 5 SW512-52,Acer,Intel i5-7200U,12.0,2160 x 1440,Windows Home 10.00,Intel HD Graphics 620,2017-07-31,https://noteb.com/res/img/models/thumb/t_863_1.jpg,780
+MSI Gaming GL72,MSI,Intel i7-7700HQ,17.3,1920 x 1080,No OS  0.00,Nvidia GeForce GTX 1050,2017-01-25,https://noteb.com/res/img/models/thumb/t_452_1.jpg,1047
+MSI Gaming GE73,MSI,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1070,2017-08-02,https://noteb.com/res/img/models/thumb/t_865_1.jpg,1794
+MSI Gaming GF62,MSI,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050 Ti,2017-08-03,https://noteb.com/res/img/models/thumb/t_867_1.jpg,1189
+MSI Prestige PL62,MSI,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce MX150,2017-08-03,https://noteb.com/res/img/models/thumb/t_868_1.jpg,1004
+MSI Workstation WE62,MSI,Intel i7-7700HQ,15.6,1920 x 1080,Windows Pro 10.00,Nvidia Quadro M2200,2017-08-03,https://noteb.com/res/img/models/thumb/t_871_1.jpg,2024
+MSI Gaming GT75VR,MSI,Intel i7-7820HK,17.3,1920 x 1080,Windows Pro 10.00,Nvidia GeForce GTX 1070,2017-08-03,https://noteb.com/res/img/models/thumb/t_873_1.jpg,3340
+Acer Aspire 5 A515-51,Acer,Intel i7-7500U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-08-03,https://noteb.com/res/img/models/thumb/t_878_1.jpg,483
+Acer Aspire 7 A715-71G,Acer,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050,2017-08-04,https://noteb.com/res/img/models/thumb/t_882_1.jpg,911
+Lenovo Ideapad 310-15 AMD,Lenovo,Amd A10-9600P,15.6,1920 x 1080,Windows Home 10.00,Amd Radeon R5 M430,2017-04-28,https://noteb.com/res/img/models/thumb/t_693_1.jpg,488
+Lenovo Education N23 Chromebook,Lenovo,Intel Celeron N3060,11.6,1366 x 768,Windows Pro 10.00,Intel HD 400,2017-02-10,https://noteb.com/res/img/models/thumb/t_507_1.jpg,268
+Panasonic Toughbook 33,Panasonic,Intel m5-6Y57,10.1,1920 x 1200,Windows Pro 10.00,Intel HD Graphics 515,2017-02-16,https://noteb.com/res/img/models/thumb/t_516_1.jpg,3014
+Microsoft Surface Pro,Microsoft,Intel m3-7Y30,12.3,2736 x 1824,Windows Pro 10.00,Intel HD Graphics 615,2017-08-09,https://noteb.com/res/img/models/thumb/t_892_1.jpg,637
+Huawei MateBook X,Huawei,Intel i5-7200U,13.3,2160 x 1440,Windows Home 10.00,Intel HD Graphics 620,2017-08-09,https://noteb.com/res/img/models/thumb/t_897_1.jpg,1003
+Medion Erazer X7853,Medion,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1070,2017-08-10,https://noteb.com/res/img/models/thumb/t_905_1.jpg,1628
+Medion Akoya S6219,Medion,Intel Pentium N3710,15.6,1920 x 1080,Windows Home 10.00,Intel HD 405,2017-08-10,https://noteb.com/res/img/models/thumb/t_906_1.jpg,356
+HP EliteBook x2 1012 G2,HP,Intel i3-7100U,12.3,2736 x 1824,Windows Home 10.00,Intel HD Graphics 620,2017-08-16,https://noteb.com/res/img/models/thumb/t_908_1.jpg,2285
+Clevo PA71,Clevo,Intel i7-7700HQ,17.3,1920 x 1080,No OS  0.00,Nvidia GeForce GTX 1070,2017-08-16,https://noteb.com/res/img/models/thumb/t_909_1.jpg,1568
+HP Chromebook 11 G5,HP,Intel Celeron N3060,11.6,1366 x 768,Chrome OS  1.00,Intel HD 400,2017-08-16,https://noteb.com/res/img/models/thumb/t_910_1.jpg,188
+HP ProBook 11 x360 G2,HP,Intel Celeron N3350,11.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 500,2017-02-16,https://noteb.com/res/img/models/thumb/t_512_1.jpg,560
+Samsung Notebook Pro 15 NP940X5,Samsung,Intel i5-7200U,15.0,1920 x 1080,Windows Home 10.00,Amd Radeon 540,2017-08-17,https://noteb.com/res/img/models/thumb/t_913_1.jpg,996
+Samsung Notebook Pro 13 NP940X3,Samsung,Intel i5-7200U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-08-17,https://noteb.com/res/img/models/thumb/t_914_1.jpg,746
+Samsung Chromebook Pro XE510C24,Samsung,Intel m3-6Y30,12.3,2400 x 1600,Chrome OS  1.00,Intel HD Graphics 515,2017-08-17,https://noteb.com/res/img/models/thumb/t_915_1.jpg,608
+Samsung Chromebook 3 XE500C13,Samsung,Intel Celeron N3060,11.6,1366 x 768,Chrome OS  1.00,Intel HD 400,2017-08-17,https://noteb.com/res/img/models/thumb/t_916_1.jpg,192
+Asus VivoBook 15 X556,Asus,Intel i7-7500U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-07-07,https://noteb.com/res/img/models/thumb/t_821_1.jpg,849
+Asus VivoBook E12 E203NA,Asus,Intel Celeron N3350,11.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 500,2017-08-21,https://noteb.com/res/img/models/thumb/t_921_1.jpg,179
+Asus ZenBook Flip S UX370,Asus,Intel i7-7500U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-08-23,https://noteb.com/res/img/models/thumb/t_923_1.jpg,1133
+Asus VivoBook 15 X542,Asus,Intel i5-7200U,15.6,1366 x 768,Windows Pro 10.00,Intel HD Graphics 620,2017-08-23,https://noteb.com/res/img/models/thumb/t_924_1.jpg,534
+Asus ROG FX753,Asus,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050 Ti,2017-08-23,https://noteb.com/res/img/models/thumb/t_925_1.jpg,1256
+Asus VivoBook 15 X542,Asus,Intel i5-7200U,15.6,1366 x 768,Windows Pro 10.00,Intel HD Graphics 620,2017-08-23,https://noteb.com/res/img/models/thumb/t_924_1.jpg,534
+Acer Spin 1 SP113-31,Acer,Intel Celeron N3350,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 500,2017-03-10,https://noteb.com/res/img/models/thumb/t_628_1.jpg,429
+Acer Aspire Nitro VN7-593G,Acer,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2017-03-17,https://noteb.com/res/img/models/thumb/t_665_1.jpg,1296
+Acer Aspire A114-31,Acer,Intel Celeron N3450,14.0,1920 x 1080,Windows S 10.00,Intel HD Graphics 500,2017-07-26,https://noteb.com/res/img/models/thumb/t_853_1.jpg,243
+Acer Aspire A315-21,Acer,Amd A9-9420,15.6,1366 x 768,Windows Home 10.00,Amd Radeon R5 (Bristol-Ridge) (A9-94xx),2017-08-31,https://noteb.com/res/img/models/thumb/t_930_1.jpg,360
+Acer Predator Triton PT715-51,Acer,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2017-08-31,https://noteb.com/res/img/models/thumb/t_931_1.jpg,1519
+Acer Swift 1 SF113-31,Acer,Intel Celeron N3450,13.3,1920 x 1080,Windows S 10.00,Intel HD Graphics 500,2017-08-31,https://noteb.com/res/img/models/thumb/t_934_1.jpg,281
+Acer TravelMate P2 TMP248-M,Acer,Intel i7-6500U,14.0,1366 x 768,Windows Pro 10.00,Intel HD Graphics 520,2017-08-31,https://noteb.com/res/img/models/thumb/t_935_1.jpg,1644
+Acer Swift 1 SF113-31,Acer,Intel Celeron N3450,13.3,1920 x 1080,Windows S 10.00,Intel HD Graphics 500,2017-08-31,https://noteb.com/res/img/models/thumb/t_934_1.jpg,281
+Acer Swift 3 SF314-52G,Acer,Intel i5-8250U,14.0,1920 x 1080,Windows Home 10.00,Nvidia GeForce MX150,2017-08-31,https://noteb.com/res/img/models/thumb/t_1460_1.jpg,1011
+Acer TravelMate P2 TMP259-M,Acer,Intel i5-6200U,15.6,1366 x 768,Windows Pro 10.00,Intel HD Graphics 520,2017-08-31,https://noteb.com/res/img/models/thumb/t_940_1.jpg,304
+Acer TravelMate P6 TMP658-M,Acer,Intel i7-6500U,15.6,1366 x 768,Windows Pro 10.00,Intel HD Graphics 520,2017-09-01,https://noteb.com/res/img/models/thumb/t_941_1.jpg,1153
+Acer TravelMate P2 TMP249-M,Acer,Intel i5-6200U,14.0,1366 x 768,Windows Pro 10.00,Intel HD Graphics 520,2017-09-01,https://noteb.com/res/img/models/thumb/t_942_1.jpg,436
+Acer TravelMate Spin B1 TMB118-RN,Acer,Intel Celeron N3450,11.6,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 500,2017-09-01,https://noteb.com/res/img/models/thumb/t_943_1.jpg,328
+Acer TravelMate B TMB117-M,Acer,Intel Pentium N3710,11.6,1366 x 768,No OS  0.00,Intel HD 405,2017-04-28,https://noteb.com/res/img/models/thumb/t_692_1.jpg,348
+Acer Swift 3 SF315-51,Acer,Intel i5-8250U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-09-01,https://noteb.com/res/img/models/thumb/t_949_1.jpg,860
+Acer Swift 3 SF315-51G,Acer,Intel i5-8250U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce MX150,2017-09-01,https://noteb.com/res/img/models/thumb/t_949_1.jpg,745
+MSI Gaming GE62,MSI,Intel i7-6700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2016-01-01,https://noteb.com/res/img/models/thumb/t_448_1.jpg,1418
+HP Spectre x360 15t,HP,Intel i7-8550U,15.6,3840 x 2160,Windows Home 10.00,Nvidia GeForce MX150,2017-03-22,https://noteb.com/res/img/models/thumb/t_674_1.jpg,1205
+HP Envy x360 15t,HP,Intel i5-8250U,15.6,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2017-03-27,https://noteb.com/res/img/models/thumb/t_1130_1.jpg,699
+Asus VivoBook E403,Asus,Intel Celeron N3350,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 500,2017-09-20,https://noteb.com/res/img/models/thumb/t_954_1.jpg,341
+Asus ROG Strix GL703VD,Asus,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050,2017-09-20,https://noteb.com/res/img/models/thumb/t_955_1.jpg,1125
+Asus VivoBook 15 X510,Asus,Intel i5-8250U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-09-20,https://noteb.com/res/img/models/thumb/t_956_1.jpg,548
+Asus ROG Strix GL702ZC,Asus,Amd Ryzen 7 1700,17.3,1920 x 1080,Windows Home 10.00,Amd Radeon RX 580,2017-09-20,https://noteb.com/res/img/models/thumb/t_957_1.jpg,1416
+Asus VivoBook Pro 15 N580,Asus,Intel i7-7700HQ,15.6,3840 x 2160,Windows Home 10.00,Nvidia GeForce GTX 1050,2017-07-10,https://noteb.com/res/img/models/thumb/t_829_1.jpg,1033
+Microsoft Surface Book,Microsoft,Intel i5-6300U,13.5,3000 x 2000,Windows Pro 10.00,Intel HD Graphics 520,2017-03-23,https://noteb.com/res/img/models/thumb/t_676_1.jpg,921
+Clevo PA71,Clevo,Intel i7-7700HQ,17.3,1920 x 1080,No OS  0.00,Nvidia GeForce GTX 1070,2017-08-16,https://noteb.com/res/img/models/thumb/t_909_1.jpg,1568
+Razer Blade 14 2017,Razer,Intel i7-7700HQ,14.0,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2017-02-22,https://noteb.com/res/img/models/thumb/t_540_1.jpg,2319
+Clevo N950,Clevo,Intel Pentium G4600 ,15.6,1920 x 1080,No OS  0.00,Nvidia GeForce GTX 1060,2017-09-25,https://noteb.com/res/img/models/thumb/t_962_1.jpg,846
+Asus ZenBook Pro UX550,Asus,Intel i7-7700HQ,15.6,1920 x 1080,Windows Pro 10.00,Nvidia GeForce GTX 1050 Ti,2017-09-26,https://noteb.com/res/img/models/thumb/t_963_1.jpg,1315
+Asus ZenBook UX530,Asus,Intel i5-7200U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 950M,2017-09-26,https://noteb.com/res/img/models/thumb/t_964_1.jpg,732
+Asus ZenBook Pro UX550,Asus,Intel i7-7700HQ,15.6,1920 x 1080,Windows Pro 10.00,Nvidia GeForce GTX 1050 Ti,2017-09-26,https://noteb.com/res/img/models/thumb/t_963_1.jpg,1315
+Dell Inspiron 15 7570,Dell,Intel i7-8550U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-09-27,https://noteb.com/res/img/models/thumb/t_966_1.jpg,793
+Dell Inspiron 15 7573 2-in-1,Dell,Intel i5-8250U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-09-27,https://noteb.com/res/img/models/thumb/t_967_1.jpg,709
+Dell Inspiron 13 7373 2-in-1,Dell,Intel i7-8550U,13.3,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2017-09-27,https://noteb.com/res/img/models/thumb/t_968_1.jpg,839
+Dell Inspiron 15 5579 2-in-1,Dell,Intel i3-7130U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-09-27,https://noteb.com/res/img/models/thumb/t_969_1.jpg,486
+Dell Inspiron 15 7577 Gaming,Dell,Intel i5-7300HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060 Max-Q,2017-09-27,https://noteb.com/res/img/models/thumb/t_970_1.jpg,810
+Dell Inspiron 13 5379 2-in-1,Dell,Intel i5-8250U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-09-28,https://noteb.com/res/img/models/thumb/t_971_1.jpg,657
+Dell Latitude Rugged 12 7212 Extreme,Dell,Intel i3-7100U,11.6,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2017-09-29,https://noteb.com/res/img/models/thumb/t_972_1.jpg,1930
+Dell XPS 13 9360,Dell,Intel i7-8550U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2016-10-20,https://noteb.com/res/img/models/thumb/t_87_1.jpg,1164
+Acer Aspire Nitro 5 Spin NP515-51,Acer,Intel i7-8550U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050,2017-10-04,https://noteb.com/res/img/models/thumb/t_973_1.jpg,911
+Clevo N130,Clevo,Intel i5-8250U,13.3,1920 x 1080,No OS  0.00,Intel HD Graphics 620,2017-10-04,https://noteb.com/res/img/models/thumb/t_974_1.jpg,746
+Acer Swift 1 SF114-31,Acer,Intel Celeron N3060,14.0,1366 x 768,Windows Home 10.00,Intel HD 400,2017-02-23,https://noteb.com/res/img/models/thumb/t_546_1.jpg,328
+Acer Spin 5 SP513-52,Acer,Intel i5-8250U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-05-24,https://noteb.com/res/img/models/thumb/t_1095_1.jpg,709
+Acer Swift 3 SF314-52,Acer,Intel i3-7100U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-07-27,https://noteb.com/res/img/models/thumb/t_856_1.jpg,513
+Acer Spin 5 SP513-52,Acer,Intel i5-8250U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-05-24,https://noteb.com/res/img/models/thumb/t_1095_1.jpg,709
+Acer Spin 1 SP111-32,Acer,Intel Celeron N3350,11.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 500,2017-03-13,https://noteb.com/res/img/models/thumb/t_633_1.jpg,280
+Acer Swift 3 SF314-52G,Acer,Intel i5-8250U,14.0,1920 x 1080,Windows Home 10.00,Nvidia GeForce MX150,2017-08-31,https://noteb.com/res/img/models/thumb/t_1460_1.jpg,1011
+Acer Swift 3 SF315-51,Acer,Intel i5-8250U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-09-01,https://noteb.com/res/img/models/thumb/t_949_1.jpg,860
+Acer Swift 3 SF315-51G,Acer,Intel i5-8250U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce MX150,2017-09-01,https://noteb.com/res/img/models/thumb/t_949_1.jpg,745
+Acer Swift 3 SF314-52,Acer,Intel i3-7100U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-07-27,https://noteb.com/res/img/models/thumb/t_856_1.jpg,513
+Acer Swift 3 SF314-51,Acer,Intel i5-7200U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-03-08,https://noteb.com/res/img/models/thumb/t_616_1.jpg,699
+Acer Aspire E5-774G,Acer,Intel i5-7200U,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 950M,2017-02-28,https://noteb.com/res/img/models/thumb/t_571_1.jpg,861
+Lenovo Thinkpad A475,Lenovo,Amd A12 PRO-9800B,14.0,1920 x 1080,Windows Pro 10.00,Amd Radeon R7 (Bristol-Ridge),2017-10-18,https://noteb.com/res/img/models/thumb/t_976_1.jpg,599
+Lenovo Thinkpad A275,Lenovo,Amd A12 PRO-9800B,12.5,1366 x 768,Windows Pro 10.00,Amd Radeon R7 (Bristol-Ridge),2017-10-18,https://noteb.com/res/img/models/thumb/t_977_1.jpg,653
+Microsoft Surface Book 2 13.5,Microsoft,Intel i5-7300U,13.5,3000 x 2000,Windows Pro 10.00,Intel HD Graphics 620,2017-10-19,https://noteb.com/res/img/models/thumb/t_978_1.jpg,1139
+Microsoft Surface Book 2 15,Microsoft,Intel i5-7300U,13.5,3000 x 2000,Windows Pro 10.00,Intel HD Graphics 620,2017-10-19,https://noteb.com/res/img/models/thumb/t_978_1.jpg,1139
+Lenovo Yoga 920-14,Lenovo,Intel i7-8550U,13.9,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-10-20,https://noteb.com/res/img/models/thumb/t_979_1.jpg,1011
+Lenovo Ideapad V320-17,Lenovo,Intel i5-8250U,17.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-10-25,https://noteb.com/res/img/models/thumb/t_984_1.jpg,660
+Lenovo Ideapad 120s-14,Lenovo,Intel Celeron N3350,14.0,1366 x 768,Windows Home 10.00,Intel HD Graphics 500,2017-10-27,https://noteb.com/res/img/models/thumb/t_989_1.jpg,167
+Razer Blade 14 2017,Razer,Intel i7-7700HQ,14.0,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2017-02-22,https://noteb.com/res/img/models/thumb/t_540_1.jpg,2319
+Razer Blade 17 Pro 2017,Razer,Intel i7-7820HK,17.3,3840 x 2160,Windows Home 10.00,Nvidia GeForce GTX 1080,2017-06-21,https://noteb.com/res/img/models/thumb/t_781_1.jpg,2987
+Razer Blade Stealth 2018,Razer,Intel i7-8550U,13.3,3200 x 1800,Windows Home 10.00,Intel HD Graphics 620,2017-01-12,https://noteb.com/res/img/models/thumb/t_391_1.jpg,1418
+Google Pixelbook GA00122-US (i5),Google,Intel i5-7Y57,12.3,2400 x 1600,Chrome OS  1.00,Intel HD Graphics 615,2017-10-31,https://noteb.com/res/img/models/thumb/t_991_1.jpg,1011
+Google Pixelbook GA00122-US (i7),Google,Intel i7-7Y75,12.3,2400 x 1600,Chrome OS  1.00,Intel HD Graphics 615,2017-10-31,https://noteb.com/res/img/models/thumb/t_991_1.jpg,1670
+Google Pixelbook GA00122-US (i5),Google,Intel i5-7Y57,12.3,2400 x 1600,Chrome OS  1.00,Intel HD Graphics 615,2017-10-31,https://noteb.com/res/img/models/thumb/t_991_1.jpg,1011
+Google Pixelbook GA00122-US (i7),Google,Intel i7-7Y75,12.3,2400 x 1600,Chrome OS  1.00,Intel HD Graphics 615,2017-10-31,https://noteb.com/res/img/models/thumb/t_991_1.jpg,1670
+Asus ROG GL503,Asus,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1070,2017-11-01,https://noteb.com/res/img/models/thumb/t_997_1.jpg,2429
+Asus ROG GL703VM,Asus,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1060,2017-11-02,https://noteb.com/res/img/models/thumb/t_998_1.jpg,1345
+HP ProBook 430 G5,HP,Intel i3-7100U,13.3,1366 x 768,Windows Pro 10.00,Intel HD Graphics 620,2017-11-02,https://noteb.com/res/img/models/thumb/t_999_1.jpg,557
+HP Omen X 17t,HP,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1070,2017-11-02,https://noteb.com/res/img/models/thumb/t_1000_1.jpg,1619
+HP EliteBook 1040 G4,HP,Intel i5-6200U,14.0,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 520,2016-11-21,https://noteb.com/res/img/models/thumb/t_148_1.jpg,978
+HP Stream 11 Pro G4,HP,Intel Celeron N3350,11.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 500,2017-11-02,https://noteb.com/res/img/models/thumb/t_1002_1.jpg,659
+HP EliteBook x360 1020 G2,HP,Intel i5-7200U,12.5,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2017-11-02,https://noteb.com/res/img/models/thumb/t_1003_1.jpg,1563
+HP ProBook 470 G5,HP,Intel i3-8130U,17.3,1600 x 900,Windows Home 10.00,Nvidia GeForce 930MX,2017-11-03,https://noteb.com/res/img/models/thumb/t_1005_1.jpg,785
+HP Spectre 13t,HP,Intel i7-8550U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-11-03,https://noteb.com/res/img/models/thumb/t_1007_1.jpg,1268
+Clevo P750,Clevo,Intel i5-9600K,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce RTX 2060,2017-11-06,https://noteb.com/res/img/models/thumb/t_1008_1.jpg,1981
+HP Envy 17t,HP,Intel i7-8550U,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce MX150,2017-11-10,https://noteb.com/res/img/models/thumb/t_1010_1.jpg,942
+HP Envy x360 15z,HP,Amd Ryzen 5 2500U,15.6,1920 x 1080,Windows Home 10.00,Amd Radeon RX Vega 8,2017-11-13,https://noteb.com/res/img/models/thumb/t_1011_1.jpg,830
+Samsung Notebook Odyssey NP800G5,Samsung,Intel i7-7700HQ,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050,2017-02-27,https://noteb.com/res/img/models/thumb/t_557_1.jpg,1215
+Samsung Galaxy Book 12,Samsung,Intel i5-7200U,12.0,2160 x 1440,Windows Home 10.00,Intel HD Graphics 620,2017-11-15,https://noteb.com/res/img/models/thumb/t_1014_1.jpg,1164
+Asus Chromebook C202,Asus,Intel Celeron N3060,11.6,1366 x 768,Chrome OS  1.00,Intel HD 400,2016-12-23,https://noteb.com/res/img/models/thumb/t_293_1.jpg,206
+Asus ZenBook UX390,Asus,Intel i7-7500U,12.5,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2016-12-12,https://noteb.com/res/img/models/thumb/t_252_1.jpg,1442
+Lenovo Yoga 920-14,Lenovo,Intel i7-8550U,13.9,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-10-20,https://noteb.com/res/img/models/thumb/t_979_1.jpg,1011
+Dell Inspiron 15 7570,Dell,Intel i7-8550U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-09-27,https://noteb.com/res/img/models/thumb/t_966_1.jpg,793
+Asus ZenBook Flip S UX370,Asus,Intel i7-7500U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-08-23,https://noteb.com/res/img/models/thumb/t_923_1.jpg,1133
+Asus ZenBook UX330,Asus,Intel i5-7200U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-05-02,https://noteb.com/res/img/models/thumb/t_695_1.jpg,1062
+Asus VivoBook S14 S406,Asus,Intel i3-7100U,14.0,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2017-11-21,https://noteb.com/res/img/models/thumb/t_1015_1.jpg,509
+Asus ZenBook UX430,Asus,Intel i7-7500U,14.0,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-07-10,https://noteb.com/res/img/models/thumb/t_824_1.jpg,2024
+Asus VivoBook Flip 14 TP401,Asus,Intel m3-7Y30,14.0,1366 x 768,Windows Home 10.00,Intel HD Graphics 615,2017-11-21,https://noteb.com/res/img/models/thumb/t_1017_1.jpg,493
+Asus ZenBook UX490,Asus,Intel i5-7200U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-01-05,https://noteb.com/res/img/models/thumb/t_350_1.jpg,1200
+HP Spectre x360 13t,HP,Intel i7-8550U,13.3,3840 x 2160,Windows Pro 10.00,Intel HD Graphics 620,2017-11-22,https://noteb.com/res/img/models/thumb/t_1019_1.jpg,1467
+Asus VivoBook Flip 14 TP410,Asus,Intel i5-7200U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-11-22,https://noteb.com/res/img/models/thumb/t_1020_1.jpg,576
+Acer Aspire 5 A515-51,Acer,Intel i7-7500U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-08-03,https://noteb.com/res/img/models/thumb/t_878_1.jpg,483
+Acer Aspire 5 A515-51G,Acer,Intel i7-8550U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce MX150,2017-11-23,https://noteb.com/res/img/models/thumb/t_1022_1.jpg,658
+Asus VivoBook 15 F510,Asus,Intel i5-7200U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-11-23,https://noteb.com/res/img/models/thumb/t_1023_1.jpg,516
+Asus ZenBook Flip 14 UX461,Asus,Intel i5-8250U,14.0,1920 x 1080,Windows Home 10.00,Nvidia GeForce MX150,2017-11-24,https://noteb.com/res/img/models/thumb/t_1024_1.jpg,1029
+Asus VivoBook S14 S410,Asus,Intel i5-8250U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-11-27,https://noteb.com/res/img/models/thumb/t_1026_1.jpg,704
+Asus VivoBook Flip 15 TP510,Asus,Intel i3-7100U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-11-27,https://noteb.com/res/img/models/thumb/t_1028_1.jpg,496
+Asus ZenBook UX430,Asus,Intel i7-7500U,14.0,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-07-10,https://noteb.com/res/img/models/thumb/t_824_1.jpg,2024
+Asus VivoBook S15 S510,Asus,Intel i5-7200U,15.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2017-07-07,https://noteb.com/res/img/models/thumb/t_822_1.jpg,1046
+Asus VivoBook 15 X510,Asus,Intel i5-8250U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-09-20,https://noteb.com/res/img/models/thumb/t_956_1.jpg,548
+Asus VivoBook Flip 12 TP203NA,Asus,Intel Celeron N3350,11.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 500,2017-11-29,https://noteb.com/res/img/models/thumb/t_1031_1.jpg,262
+Asus 2-in-1 Q505,Asus,Intel i5-8250U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-11-29,https://noteb.com/res/img/models/thumb/t_1032_1.jpg,1063
+Asus ROG GL702,Asus,Intel i7-7700HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1070,2017-05-05,https://noteb.com/res/img/models/thumb/t_709_1.jpg,1553
+Asus VivoBook Max X541,Asus,Intel Celeron N3060,15.6,1366 x 768,No OS  0.00,Intel HD 400,2017-07-06,https://noteb.com/res/img/models/thumb/t_812_1.jpg,942
+Asus VivoBook 15 X510,Asus,Intel i5-8250U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-09-20,https://noteb.com/res/img/models/thumb/t_956_1.jpg,548
+Dell Inspiron 15 5570,Dell,Intel i3-7020U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-12-21,https://noteb.com/res/img/models/thumb/t_1041_1.jpg,517
+Dell Inspiron 17 5770,Dell,Intel i7-7500U,17.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-12-21,https://noteb.com/res/img/models/thumb/t_1042_1.jpg,1002
+Dell Inspiron 13 7370,Dell,Intel i5-8250U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-12-21,https://noteb.com/res/img/models/thumb/t_1043_1.jpg,689
+Dell Inspiron 17 7773 2-in-1,Dell,Intel i7-8550U,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce MX150,2017-12-22,https://noteb.com/res/img/models/thumb/t_1044_1.jpg,924
+Lenovo Ideapad 720S-15,Lenovo,Intel i7-7700HQ,15.6,1920 x 1080,Windows Pro 10.00,Nvidia GeForce GTX 1050 Ti,2017-12-22,https://noteb.com/res/img/models/thumb/t_1045_1.jpg,1152
+Lenovo Ideapad 720S-13,Lenovo,Intel i7-8550U,13.3,3840 x 2160,Windows Home 10.00,Intel HD Graphics 620,2017-12-22,https://noteb.com/res/img/models/thumb/t_1046_1.jpg,1180
+Acer Spin 5 SP513-51,Acer,Intel i5-7200U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-05-24,https://noteb.com/res/img/models/thumb/t_756_1.jpg,758
+Acer Swift 3 SF314-52G,Acer,Intel i5-8250U,14.0,1920 x 1080,Windows Home 10.00,Nvidia GeForce MX150,2017-08-31,https://noteb.com/res/img/models/thumb/t_1460_1.jpg,1011
+Acer Spin SP515-51GN,Acer,Intel i5-8250U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 1050,2018-01-02,https://noteb.com/res/img/models/thumb/t_1096_1.jpg,819
+Acer Aspire 5 A517-51G,Acer,Intel i5-7200U,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2018-01-03,https://noteb.com/res/img/models/thumb/t_1052_1.jpg,620
+Acer Aspire Switch 7 SW713-51G,Acer,Intel i7-8550U,13.5,2256 x 1504,Windows Home 10.00,Nvidia GeForce MX150,2018-01-04,https://noteb.com/res/img/models/thumb/t_1053_1.jpg,1823
+Acer Chromebook 15 CB515,Acer,Intel Celeron N3350,15.6,1920 x 1080,Chrome OS  1.00,Intel HD Graphics 500,2018-01-04,https://noteb.com/res/img/models/thumb/t_1054_1.jpg,354
+Acer Swift 5 SF514-52T,Acer,Intel i5-8250U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2018-01-04,https://noteb.com/res/img/models/thumb/t_1055_1.jpg,926
+Acer Chromebook 15 CB3-532,Acer,Intel Celeron N3060,15.6,1366 x 768,Chrome OS  1.00,Intel HD 400,2018-01-04,https://noteb.com/res/img/models/thumb/t_1056_1.jpg,219
+Acer Chromebook 11 C771,Acer,Intel Celeron 3855U,11.6,1366 x 768,Chrome OS  1.00,Intel HD Graphics 510,2018-01-04,https://noteb.com/res/img/models/thumb/t_1057_1.jpg,326
+Acer Chromebook Spin 11 CP511,Acer,Intel Celeron N3350,11.6,1366 x 768,Chrome OS  1.00,Intel HD Graphics 500,2018-01-04,https://noteb.com/res/img/models/thumb/t_1059_1.jpg,405
+Acer Chromebook 11 N7 C731,Acer,Intel Celeron N3060,11.6,1366 x 768,Chrome OS  1.00,Intel HD 400,2018-01-04,https://noteb.com/res/img/models/thumb/t_1060_1.jpg,300
+Acer Aspire E5-553G,Acer,Amd A12-9700P,15.6,1920 x 1080,Windows Home 10.00,Amd Radeon R7 M440,2018-01-04,https://noteb.com/res/img/models/thumb/t_1062_1.jpg,518
+Acer Aspire E5-576G,Acer,Intel i5-8250U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce MX150,2018-01-04,https://noteb.com/res/img/models/thumb/t_1063_1.jpg,557
+Acer Aspire ES1-533 ,Acer,Intel Pentium N4200,15.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 505,2018-01-05,https://noteb.com/res/img/models/thumb/t_1064_1.jpg,327
+Acer Aspire E5-575G,Acer,Intel i5-7200U,15.6,1920 x 1080,Linux Ubuntu  16.04,Nvidia GeForce 940MX,2016-12-30,https://noteb.com/res/img/models/thumb/t_338_1.jpg,1226
+Dell Latitude 14 7490,Dell,Intel i3-8130U,14.0,1366 x 768,Windows Pro 10.00,Intel HD Graphics 620,2018-01-15,https://noteb.com/res/img/models/thumb/t_1073_1.jpg,1105
+Dell Latitude 13 7390,Dell,Intel i3-8130U,13.3,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2018-01-15,https://noteb.com/res/img/models/thumb/t_1461_1.jpg,1257
+Lenovo Ideapad 720s-14,Lenovo,Intel i7-8550U,14.0,1920 x 1080,Windows Home 10.00,Nvidia GeForce MX150,2018-01-15,https://noteb.com/res/img/models/thumb/t_1074_1.jpg,952
+Lenovo Ideapad 120s-11,Lenovo,Intel Celeron N3350,11.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 500,2018-01-16,https://noteb.com/res/img/models/thumb/t_1075_1.jpg,376
+Lenovo Ideapad Miix 520,Lenovo,Intel i5-8250U,12.2,1920 x 1200,Windows Home 10.00,Intel HD Graphics 620,2018-01-16,https://noteb.com/res/img/models/thumb/t_1076_1.jpg,813
+Lenovo Thinkpad E580,Lenovo,Intel i5-8250U,15.6,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2018-01-16,https://noteb.com/res/img/models/thumb/t_1077_1.jpg,563
+Lenovo Thinkpad E480,Lenovo,Intel i5-8250U,14.0,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2018-01-17,https://noteb.com/res/img/models/thumb/t_1078_1.jpg,793
+HP Zbook 17 G3,HP,Intel i5-6440HQ,17.3,1600 x 900,Windows Home 10.00,Intel HD Graphics 530,2016-12-05,https://noteb.com/res/img/models/thumb/t_206_1.jpg,2721
+Lenovo Yoga 720-12,Lenovo,Intel i3-7100U,12.5,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2017-10-23,https://noteb.com/res/img/models/thumb/t_980_1.jpg,526
+Panasonic Toughbook CF-XZ6,Panasonic,Intel i5-7300U,12.0,2160 x 1440,Windows Pro 10.00,Intel HD Graphics 620,2018-01-18,https://noteb.com/res/img/models/thumb/t_1081_1.jpg,2345
+LG gram 15 Z980,LG,Intel i5-8250U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2018-01-22,https://noteb.com/res/img/models/thumb/t_1082_1.jpg,1108
+Lenovo Thinkpad E480,Lenovo,Intel i5-8250U,14.0,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2018-01-17,https://noteb.com/res/img/models/thumb/t_1078_1.jpg,793
+LG gram 13 Z975,LG,Intel i7-8550U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2018-01-22,https://noteb.com/res/img/models/thumb/t_1083_1.jpg,1315
+Fujitsu Lifebook E558,Fujitsu,Intel i5-8250U,15.6,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2018-01-23,https://noteb.com/res/img/models/thumb/t_1118_1.jpg,1648
+Fujitsu Lifebook E548,Fujitsu,Intel i5-8350U,14.0,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2018-01-23,https://noteb.com/res/img/models/thumb/t_1086_1.jpg,1644
+Dell XPS 13 9370,Dell,Intel i7-8550U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2018-01-23,https://noteb.com/res/img/models/thumb/t_1088_1.jpg,1316
+Asus ZenBook UX430,Asus,Intel i7-7500U,14.0,1920 x 1080,Windows Home 10.00,Nvidia GeForce 940MX,2017-07-10,https://noteb.com/res/img/models/thumb/t_824_1.jpg,2024
+Dell Vostro 13 5370,Dell,Intel i5-8250U,13.3,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2018-01-25,https://noteb.com/res/img/models/thumb/t_1089_1.jpg,678
+Dell Vostro 14 5471,Dell,Intel i5-8250U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2018-01-29,https://noteb.com/res/img/models/thumb/t_1090_1.jpg,706
+Clevo N131,Clevo,Intel i7-8550U,13.3,3200 x 1800,No OS  0.00,Intel HD Graphics 620,2018-01-29,https://noteb.com/res/img/models/thumb/t_1091_1.jpg,881
+Xiaomi Pro 15.6,Xiaomi,Intel i5-8250U,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce MX150,2018-02-02,https://noteb.com/res/img/models/thumb/t_1094_1.jpg,992
+Lenovo Thinkpad E580,Lenovo,Intel i5-8250U,15.6,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2018-01-16,https://noteb.com/res/img/models/thumb/t_1077_1.jpg,563
+Acer Aspire Nitro VN7-792G,Acer,Intel i5-6300HQ,17.3,1920 x 1080,Windows Home 10.00,Nvidia GeForce GTX 960M,2016-12-23,https://noteb.com/res/img/models/thumb/t_297_1.jpg,1133
+Dell Latitude 12 7290,Dell,Intel i3-8130U,12.5,1366 x 768,Windows Pro 10.00,Intel HD Graphics 620,2018-02-12,https://noteb.com/res/img/models/thumb/t_1097_1.jpg,1105
+Dell Latitude 15 3590,Dell,Intel i3-7020U,15.6,1366 x 768,Windows Pro 10.00,Intel HD Graphics 620,2018-02-12,https://noteb.com/res/img/models/thumb/t_1098_1.jpg,378
+Dell Latitude 13 3390 2-in-1,Dell,Intel Pentium 4415U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 610,2018-02-13,https://noteb.com/res/img/models/thumb/t_1099_1.jpg,606
+Dell Latitude 12 7290,Dell,Intel i3-8130U,12.5,1366 x 768,Windows Pro 10.00,Intel HD Graphics 620,2018-02-12,https://noteb.com/res/img/models/thumb/t_1097_1.jpg,1105
+Dell Latitude 15 3590,Dell,Intel i3-7020U,15.6,1366 x 768,Windows Pro 10.00,Intel HD Graphics 620,2018-02-12,https://noteb.com/res/img/models/thumb/t_1098_1.jpg,378
+Dell Latitude 13 3390 2-in-1,Dell,Intel Pentium 4415U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 610,2018-02-13,https://noteb.com/res/img/models/thumb/t_1099_1.jpg,606
+Dell Latitude 14 3490,Dell,Intel i3-8130U,14.0,1366 x 768,Windows Pro 10.00,Intel HD Graphics 620,2018-02-14,https://noteb.com/res/img/models/thumb/t_1100_1.jpg,596
+Dell Latitude 12 5290 2-in-1 ,Dell,Intel i5-8250U,12.3,1920 x 1280,Windows Pro 10.00,Intel HD Graphics 620,2018-02-15,https://noteb.com/res/img/models/thumb/t_1101_1.jpg,1318
+Dell Latitude 14 5490,Dell,Intel i3-7130U,14.0,1366 x 768,Windows Pro 10.00,Intel HD Graphics 620,2018-02-15,https://noteb.com/res/img/models/thumb/t_1102_1.jpg,730
+Dell Latitude 15 5590,Dell,Intel i5-8250U,15.6,1366 x 768,Windows Pro 10.00,Intel HD Graphics 620,2018-02-15,https://noteb.com/res/img/models/thumb/t_1103_1.jpg,842
+Dell Latitude 13 7390 2-in-1,Dell,Intel i5-8250U,13.3,1920 x 1080,Windows Pro 10.00,Intel HD Graphics 620,2018-02-15,https://noteb.com/res/img/models/thumb/t_1104_1.jpg,1396
+Clevo P750,Clevo,Intel i5-9600K,15.6,1920 x 1080,Windows Home 10.00,Nvidia GeForce RTX 2060,2017-11-06,https://noteb.com/res/img/models/thumb/t_1008_1.jpg,1981
+Lenovo Thinkpad X1 Carbon (6th gen),Lenovo,Intel i5-8250U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2018-02-16,https://noteb.com/res/img/models/thumb/t_1105_1.jpg,1153
+Lenovo Thinkpad X1 Yoga (3rd Gen),Lenovo,Intel i5-8250U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2018-02-16,https://noteb.com/res/img/models/thumb/t_1106_1.jpg,1269
+Lenovo Thinkpad X280,Lenovo,Intel i3-7020U,12.5,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2018-02-16,https://noteb.com/res/img/models/thumb/t_1107_1.jpg,834
+Lenovo Thinkpad T480,Lenovo,Intel i3-8130U,14.0,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2018-02-19,https://noteb.com/res/img/models/thumb/t_1108_1.jpg,768
+Lenovo Thinkpad T480s,Lenovo,Intel i5-8250U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2018-02-19,https://noteb.com/res/img/models/thumb/t_1109_1.jpg,988
+Lenovo Thinkpad T580,Lenovo,Intel i5-8250U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2018-02-19,https://noteb.com/res/img/models/thumb/t_1110_1.jpg,869
+Lenovo Thinkpad X380 Yoga,Lenovo,Intel i5-8250U,13.3,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2018-02-19,https://noteb.com/res/img/models/thumb/t_1111_1.jpg,1032
+Lenovo Thinkpad L480,Lenovo,Intel i3-8130U,14.0,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2018-02-19,https://noteb.com/res/img/models/thumb/t_1112_1.jpg,662
+Lenovo Thinkpad L580,Lenovo,Intel i3-8130U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2018-02-20,https://noteb.com/res/img/models/thumb/t_1113_1.jpg,672
+Lenovo Ideapad 720S-13 AMD,Lenovo,Amd Ryzen 5 2500U,13.3,1920 x 1080,Windows Home 10.00,Amd Radeon RX Vega 8,2018-02-20,https://noteb.com/res/img/models/thumb/t_1114_1.jpg,932
+Lenovo Thinkpad P52s,Lenovo,Intel i5-8350U,15.6,1920 x 1080,Windows Home 10.00,Nvidia Quadro P500,2018-02-20,https://noteb.com/res/img/models/thumb/t_1115_1.jpg,921
+Lenovo Thinkpad T580,Lenovo,Intel i5-8250U,15.6,1920 x 1080,Windows Home 10.00,Intel HD Graphics 620,2018-02-19,https://noteb.com/res/img/models/thumb/t_1110_1.jpg,869
+Fujitsu Lifebook P728,Fujitsu,Intel i5-8250U,12.5,1366 x 768,Windows Home 10.00,Intel HD Graphics 620,2018-02-21,https://noteb.com/res/img/models/thumb/t_1117_1.jpg,1771
+Acer Aspire 3 A315-41,Acer,Amd Ryzen 3 2200U,15.6,1920 x 1080,Windows Home 10.00,Amd Radeon RX Vega 3,2018-02-23,https://noteb.com/res/img/models/thumb/t_1119_1.jpg,304
+Acer Aspire 3 A315-41G,Acer,Amd Ryzen 5 2500U,15.6,1920 x 1080,Linux Ubuntu  18.04,Amd Radeon 530,2018-02-23,https://noteb.com/res/img/models/thumb/t_1120_1.jpg,425
+Clevo N650,Clevo,Intel Pentium G4620,15.6,1920 x 1080,No OS  0.00,Intel HD Graphics 630,2018-02-26,https://noteb.com/res/img/models/thumb/t_1121_1.jpg,591

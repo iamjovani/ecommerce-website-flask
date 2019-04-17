@@ -1,0 +1,92 @@
+    
+{% extends "base.html" %}
+
+{% block main %}
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}
+
+/* Set a style for the submit button */
+.registerbtn {
+  background-color: #337ab7;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity: 1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+
+</style>
+<div class="center">
+<h1 >Sign-up</h1>
+</div>
+<h2>Please Signup</h2>
+    {% include 'flash_messages.html' %}
+    <form action="{{ url_for('registration') }}" method="post">
+      {{ sform.csrf_token }}
+      <div class="form-group">
+        {{ sform.firstname.label }}
+        {{ sform.firstname(class='form-control', placeholder="Enter your firstname") }}
+      </div>
+      <div class="form-group">
+        {{ sform.lastname.label }}
+        {{ sform.lastname(class='form-control', placeholder="Enter your lastname") }}
+      </div>
+      <div class="form-group">
+        {{ sform.email.label }}
+        {{ sform.email(class='form-control', placeholder="Enter your email") }}
+      </div>
+      <div class="form-group">
+        {{ sform.gender.label }}
+        {{ sform.gender(class='form-control', placeholder="Enter your Gender") }}
+      </div>
+      <div class="form-group">
+        {{ sform.date_of_birth.label }}
+        {{ sform.date_of_birth(class='form-control', placeholder="Enter your date of birth in this formate yyyy-mm-dd") }}
+      </div><div class="form-group">
+        {{ sform.street.label }}
+        {{ sform.street(class='form-control', placeholder="Enter your street address") }}
+      </div><div class="form-group">
+        {{ sform.city.label }}
+        {{ sform.city(class='form-control', placeholder="Enter your City") }}
+      </div>
+      <div class="form-group">
+        {{ sform.parish.label }}
+        {{ sform.parish(class='form-control', placeholder="Enter your Parish") }}
+      </div>
+      <div class="form-group">
+        {{ sform.telephone.label }}
+        {{ sform.telephone(class='form-control', placeholder="Enter your telephone") }}
+      </div>
+      <div class="form-group">
+        {{ sform.password.label }}
+        {{ sform.password(class='form-control', placeholder= "must be aleast 6 characters or more") }}
+      </div>
+      <div class="form-group">
+        {{ sform.confirmpassword.label }}
+        {{ sform.confirmpassword(class='form-control',placeholder= "must be aleast 6 characters or more and match password") }}
+      </div>
+      <button type="submit" name="submit_button" onclick="" value="signup" class="btn btn-default">Signup</button>
+    </form>
+
+    
+{% endblock %}
+

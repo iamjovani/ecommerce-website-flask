@@ -1,0 +1,21 @@
+# ----------------------
+# Flask
+# ----------------------
+Flask
+Flask-WTF
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Script
+Flask-Login
+MySQL
+flask_mysqldb
+Faker
+mysql-connector
+werkzeug
+
+# ----------------------
+# Production Server
+# ----------------------
+gunicorn
+
+

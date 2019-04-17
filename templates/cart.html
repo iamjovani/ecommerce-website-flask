@@ -1,0 +1,45 @@
+    
+{% extends "base.html" %}
+
+{% block main %}
+<section id="products" class="">
+      <div class="row">
+      	<!--  ##LaptopModelLaptopModel(model_id, model, brand, cpu_specs, display_size, resolution, operating_system, gpu_specs, launch_date, thumbnail, price) -->
+      	{%for m in items%} 
+      		<div class="col-md-4">
+    			  <div class="thumbnail">
+    			    <img src= {{m[14]}} >
+    			    <div class="caption">
+    			      <h4 class="pull-right">${{m[15]}}0</h4>
+    			      <h4><a href="/product/{{m[]}}">{{m[6]}}</a></h4>
+    			      <p>CPU: {{m[3]}} <br> Display: {{m[9]}}", {{m[10]}} <br> Operating System: {{m[11]}} <br> GPU: {{m[12]}} <br> Launch Date: {{m[13]}}</p>
+    			     <p> QUANTITY:{{items[0][2]}}   <br>  COST: ${{items[0][3]}}0</p>
+    			    </div> <!-- caption -->
+    			  </div> <!-- thumbnail -->
+    			</div> <!-- col-md-4 -->
+    	{%endfor%} 
+    	
+      </div> <!-- row -->
+      <p> <strong>Item Count:{{cart[1]}}   <br>  TOTAL COST: ${{cart[2]}}0</strong></p>
+      <input type="button" onclick="checkOut(');" value="Proceed to Checkout" class="btn btn-default" />
+      
+    </section>
+     <script>
+            function checkOut() {
+				  function myFunction() {
+                          if (confirm("Are You Sure?")) {
+                                $.post( "/add/" + m + "/"+q + "/"+p, function() {
+        						  alert( "Proccessing" );
+        						}).done(function() {
+        						    alert( "Laptop Successfully added!" );
+        						  })
+                          } else {
+                            alert("Checkout canceled!")
+				 
+                          }
+					
+            }
+      </script>
+    
+{% endblock %}
+    

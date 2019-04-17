@@ -1,0 +1,17 @@
+    
+{% extends "base.html" %}
+
+{% block main %}
+
+{%if user[0] !=None %}
+      
+      <p>Email: {{user[1]}}</p>
+      <p>Lastname: {{user[4]}}</p>
+      <p>Firstname: {{user[3]}}</p>
+      <p>Gender: {{user[5]}}</p>
+      <p>D.O.F: {{user[6]}}</p>
+      <p>Telephone:{{user[10]}}</p>
+      <p>Address:{{user[7]}},{{user[8]}},{{user[9]}}</p>
+      <p>Created_on: {{user[11]}}</p>
+
+{% endblock %}

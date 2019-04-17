@@ -1,0 +1,75 @@
+
+    <header>
+      <div class="row">
+	<div class="col-md-4 col-sm-12">
+	  <h1 class="logo"><i class="glyphicon glyphicon-tag"></i> Compu <span class="primary">Store</span></h1>
+	  <p class="subtext">CompuStore Online</p>
+	</div> <!-- col-md-4 -->
+	<div class="col-md-8 col-sm-12">
+	    
+	    
+	    {% if session['account_id']  %}
+          <li class="nav-item active">
+            <a class="nav-link" href="{{ url_for('logout') }}">Logout</a>
+          </li>
+      {% else %}
+	        <div class="form-inline" class="login-form center-block">
+	        	{% include 'flash_messages.html' %}
+			    <form action="{{ url_for('login') }}" method="post">
+			      {{ form.csrf_token }}
+			      <div class="form-group">
+			        {{ form.email.label }}
+			        {{ form.email(class='form-control', placeholder="Enter your username") }}
+			      </div>
+			      <div class="form-group">
+			        {{ form.password.label }}
+			        {{ form.password(class='form-control') }}
+			      </div>
+			      <button type="submit" name="submit_button" onclick="" value="login" class="btn btn-default">Login</button>
+						<input type="button" onclick="location.href='/registration';" value="Signup" class="btn btn-default" />
+			    </form>
+	  	</div>
+
+      {% endif %}
+	</div> <!-- col-md-8 -->
+      </div> <!-- row -->
+    </header>
+
+    <!-- Static navbar -->
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/">Home</a></li>
+             {% if session['account_id']  %}
+                  <li><a href="{{ url_for('account') }}">My Account</a></li>
+                  <li><a href="{{ url_for('cart') }}">My Cart</a></li>
+              {% endif %}
+              
+              {% if session['type'] == "admin"  %}
+                  <li><a href="{{ url_for('account') }}">Queries</a></li>
+                  
+              {% else %}
+        	        
+              {% endif %}
+
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+	    <form class="navbar-form">
+	      <div class="form-group">
+		<input type="text" class="form-control" placeholder="Search..."/>
+	      </div>
+	      <button type="submit" class="btn btn-default">Search</button>
+	    </form>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div><!--/.container-fluid -->
+    </nav>
