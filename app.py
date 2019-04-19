@@ -1,5 +1,5 @@
 from flask import Flask, session, redirect, render_template, request, url_for, flash
-from forms import SignupForm, LoginForm
+from forms import SignupForm, LoginForm, Creditcard
 from random import sample
 from werkzeug.security import check_password_hash,generate_password_hash
 
@@ -53,7 +53,7 @@ def account():
     form = LoginForm()
     compuStoreCursor.execute("SELECT * FROM CustomerAccount where={}".format(session["account_id"]))
     user = compuStoreCursor.fetchone()
-    return render_template("index.html",user=user,form=form)
+    return render_template("account.html",user=user,form=form)
     
 @app.route("/checkout")
 def checkout():
@@ -73,11 +73,25 @@ def checkout():
         m = max([b1,b2,b3])
         if m[1] == "b1":
             for _ in range(m[0]):
-                branch1Cursor.execute("call purchaseItem({}, @pid)".format(i[1]))
-                branch1Cursor.execute("@pid")
+                branch1Cursor.execute("call purchaseItem({})".format(i[1]))
                 pid = branch1Cursor.fetchone()
+                br = "Branch1"
+                compuStoreCursor.execute("call addPurchasedItem({}, {}, {}, {}, {})".format(pid, i[1], session["account_id"], br, i[3]))
                 
-        compuStoreCursor.execute("call addPurchasedItem(IN product_id int, IN model_id varchar(100), IN account_id int, IN branch_id varchar(50), IN cost double(20,2))".format(pid, i[1], session["account_id"], ))
+        elif m[1] == "b2":
+            for _ in range(m[0]):
+                branch2Cursor.execute("call purchaseItem({})".format(i[1]))
+                pid = branch2Cursor.fetchone()
+                br = "Branch2"
+                compuStoreCursor.execute("call addPurchasedItem({}, {}, {}, {}, {})".format(pid, i[1], session["account_id"], br, i[3]))
+        else:
+            for _ in range(m[0]):
+                branch3Cursor.execute("call purchaseItem({})".format(i[1]))
+                pid = branch3Cursor.fetchone()
+                br = "Branch3"
+                compuStoreCursor.execute("call addPurchasedItem({}, {}, {}, {}, {})".format(pid, i[1], session["account_id"], br, i[3]))
+        
+        compuStoreCursor.execute("Delete FROM CartItems WHERE cart_id = {} and model_id = {}".format(session['cart_id'], i[1]))
                 
     return render_template("index.html", models=models, form=form)
 
@@ -152,7 +166,23 @@ def registration():
             else:
                 flash("already a member", 'danger')
     return render_template("registration.html", form=form, sform=signform)
+
+@app.route("/queries")
+def queries(model_id):
+    form = LoginForm()
+    compuStoreCursor.execute("SELECT COUNT(*) FROM PurchasedItems WHERE ".format(cart_id))
+    topSales = compuStoreCursor.fetchall()
+    
+    return render_template("queries",form=form)        
         
+@app.route("/search/<q>")
+def search(q):
+    form = LoginForm()
+    compuStoreCursor.execute("SELECT * FROM LaptopModel WHERE model like '%{}%' or brand like '%{}%'  or cpu_specs like '%{}%' or gpu_specs like '%{}%' ".format(q,q,q,q))
+    topSales = compuStoreCursor.fetchall()
+    
+    return render_template("index",form=form)        
+
 @app.route("/login", methods=["GET", "POST"])
 def login():
     form = LoginForm()
@@ -189,12 +219,11 @@ def logout():
     flash('You have been logged out.', 'logout')
     return redirect(url_for('index'))
 
-
-
-
-
-
-
+@app.route("/creditCard", methods=["GET", "POST"])
+def creditCard():
+    form = Creditcard()
+    return render_template("creditCard",form=form)  
+    
 
 
 @app.route("/", methods=["GET", "POST"])

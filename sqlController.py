@@ -147,7 +147,7 @@ class databaseGenerator:
             print("Please check input data type for getByBrand")
             
 
-     def getBranchByCount(self, column, colkey, condition):
+    def getBranchByCount(self, column, colkey, condition):
         try:
             strstatement = "SELECT COUNT(*) FROM {} WHERE {} LIKE '%{}%';".format(column, colkey, condition)
             self.mycursor.execute(strstatement)

@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block main %}
+<div class="center">
+<h1 >Credit Card Detail {{username}}</h1>
+</div>
+<h2>Please fill-out Credit Card Detail</h2>
+    {% include 'flash_messages.html' %}
+    <form action="{{ url_for('creditCard') }}" method="post">
+      {{ form.csrf_token }}
+      <div class="form-group">
+        {{ form.cardNum.label }}
+        {{ form.cardNum(class='form-control', placeholder="Enter your card number") }}
+      </div>
+      <div class="form-group">
+        {{ form.name_on_card.label }}
+        {{ form.name_on_card(class='form-control', placeholder="Enter your the name on the card") }}
+      </div>
+      <div class="form-group">
+        {{ form.card_security_code.label }}
+        {{ form.card_security_code(class='form-control', placeholder="Enter your the card securitycode eg; 078") }}
+      </div>
+      <div class="form-group">
+        {{ form.expiration_month.label }}
+        {{ form.expiration_month(class='form-control', placeholder="Enter your the card expiration month in this format mm eg; 04") }}
+      </div>
+      <div class="form-group">
+        {{ form.expiration_year.label }}
+        {{ form.expiration_year(class='form-control', placeholder="Enter your the card expiration year in this format yyyy eg; 2020") }}
+      </div>
+      <div class="form-group">
+        {{ form.billing_street.label }}
+        {{ form.billing_street(class='form-control', placeholder="Enter your the card billing street address ") }}
+      </div>
+      <div class="form-group">
+        {{ form.billing_city.label }}
+        {{ form.billing_city(class='form-control', placeholder="Enter your the card billing city address ") }}
+      </div>
+      <div class="form-group">
+        {{ form.billing_parish.label }}
+        {{ form.billing_parish(class='form-control', placeholder="Enter your the card billing parish address") }}
+      </div>
+      <button type="submit" name="submit" class="btn btn-primary btn-block">Submit up</button>
+    </form>
+  </div>
+
+{% endblock %}

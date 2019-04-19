@@ -1,11 +1,10 @@
 import requests
 import string
 import random
-
 import mysql.connector
 from mysql.connector import Error
 from mysql.connector import errorcode
-
+    
 if __name__ == '__main__':
 
     compuStoreConnection = mysql.connector.connect(host="localhost", user="root", password="", database="CompuStore")
@@ -36,7 +35,7 @@ if __name__ == '__main__':
     mID = set()
     
     k = 0
-    
+        
     laptopFile=open("laptops.txt", "r")
     print("Start...")
     
@@ -71,7 +70,7 @@ if __name__ == '__main__':
         compuStoreCursor.execute(compustoreInsertLaptop, compuStoreLaptopValues)
         
         ##LaptopModel(model_id, model, brand, cpu_specs, display_size, resolution, operating_system, gpu_specs, launch_date, thumbnail)
-        branchLaptopValues = (model_id, model, brand, cpu, displaySize, resolution, os, gpu, launchDate, thumbnail)
+        branchLaptopValues = (model_id, model, brand, cpu, displaySize, resolution, os, gpu, launchDate, thumbnail,)
         
         branch1Cursor.execute(branchInsertLaptop, branchLaptopValues)
         branch2Cursor.execute(branchInsertLaptop, branchLaptopValues)
@@ -165,3 +164,8 @@ if __name__ == '__main__':
         branch3Cursor.close()
         branch3Connection.close()
         print("MySQL branch3Connection is closed and %s laptop model added." %k) 
+        
+    #/* WriteReview(account_id, model_id, rev_text, date_written) */
+    # conn = sqlController.databaseGenerator("CompuStore", sqlController.columns)
+    # conn.addRecord([session["account_id"],  ], "WriteReview")
+    #db.addRecord(["\"1234\"", "\"hviujk\"", "\"gdfku\"","\"hjfgf\""], "test")

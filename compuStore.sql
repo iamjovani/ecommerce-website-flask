@@ -119,6 +119,16 @@ create table WarehouseStock(
 	foreign key(model_id) references LaptopModel(model_id) on DELETE cascade on UPDATE cascade
 );
 
+/*WarehouseModelItem(warehouse_id, model_id, product_id)*/
+create table WarehouseModelItem(
+	warehouse_id int not null,
+	model_id varchar(100) not null,
+	product_id int not null,
+	primary key(warehouse_id, model_id, product_id),
+	foreign key(warehouse_id) references Warehouse(warehouse_id) on DELETE cascade on UPDATE cascade,
+	foreign key(model_id) references LaptopModel(model_id) on DELETE cascade on UPDATE cascade
+);
+
 /* Receipt(track_num, invoice) */
 create table Receipt(
 	track_num int not null,
@@ -287,11 +297,11 @@ RETURN (SELECT product_id FROM   ModelItem WHERE  model_id = @modelId LIMIT @amt
 
 /*PROCEDURE for purchaseItem(argument varchar,argument int))*/  
 DELIMITER //
-	CREATE PROCEDURE purchaseItem(IN modelId varchar(100), OUT prod_id INT)
+	CREATE PROCEDURE purchaseItem(IN modelId varchar(100))
 	BEGIN
 	UPDATE ModelStockInfo SET amt_in_stock = (amt_in_stock - 1) WHERE model_id like modelId;
 	
-	SELECT product_id into prod_id FROM ItemsInStock where model_id like modelId LIMIT 1;
+	SELECT product_id FROM ItemsInStock where model_id like modelId LIMIT 1;
 	DELETE FROM ItemsInStock WHERE product_id like prod_id;
 	END //
 DELIMITER ;
@@ -340,11 +350,11 @@ RETURN (SELECT product_id FROM   ModelItem WHERE  model_id = @modelId LIMIT @amt
 
 /*PROCEDURE for purchaseItem(argument varchar,argument int))*/  
 DELIMITER //
-	CREATE PROCEDURE purchaseItem(IN modelId varchar(100), OUT prod_id INT)
+	CREATE PROCEDURE purchaseItem(IN modelId varchar(100))
 	BEGIN
 	UPDATE ModelStockInfo SET amt_in_stock = (amt_in_stock - 1) WHERE model_id like modelId;
 	
-	SELECT product_id into prod_id FROM ItemsInStock where model_id like modelId LIMIT 1;
+	SELECT product_id FROM ItemsInStock where model_id like modelId LIMIT 1;
 	DELETE FROM ItemsInStock WHERE product_id like prod_id;
 	END //
 DELIMITER ;
@@ -393,11 +403,11 @@ RETURN (SELECT product_id FROM   ModelItem WHERE  model_id = @modelId LIMIT @amt
 
 /*PROCEDURE for purchaseItem(argument varchar,argument int))*/  
 DELIMITER //
-	CREATE PROCEDURE purchaseItem(IN modelId varchar(100), OUT prod_id INT)
+	CREATE PROCEDURE purchaseItem(IN modelId varchar(100))
 	BEGIN
 	UPDATE ModelStockInfo SET amt_in_stock = (amt_in_stock - 1) WHERE model_id like modelId;
 	
-	SELECT product_id into prod_id FROM ItemsInStock where model_id like modelId LIMIT 1;
+	SELECT product_id FROM ItemsInStock where model_id like modelId LIMIT 1;
 	DELETE FROM ItemsInStock WHERE product_id like prod_id;
 	END //
 DELIMITER ;
