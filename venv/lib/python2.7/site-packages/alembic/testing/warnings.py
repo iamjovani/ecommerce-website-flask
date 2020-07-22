@@ -4,7 +4,7 @@
 #
 # This module is part of SQLAlchemy and is released under
 # the MIT License: http://www.opensource.org/licenses/mit-license.php
-"""NOTE:  copied/adapted from SQLAlchemy master for backwards compatibility;
+"""NOTE:  copied/adapted from SQLAlchemy main for backwards compatibility;
    this should be removable when Alembic targets SQLAlchemy 0.9.4.
 """
 
