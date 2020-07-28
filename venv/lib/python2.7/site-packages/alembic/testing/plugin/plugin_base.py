@@ -10,7 +10,7 @@ this module is designed to work as a testing-framework-agnostic library,
 so that we can continue to support nose and also begin adding new
 functionality via py.test.
 
-NOTE:  copied/adapted from SQLAlchemy master for backwards compatibility;
+NOTE:  copied/adapted from SQLAlchemy main for backwards compatibility;
 this should be removable when Alembic targets SQLAlchemy 1.0.0
 
 
@@ -331,7 +331,7 @@ def _engine_uri(options, file_config):
 
     for db_url in db_urls:
 
-        if options.write_idents and provision.FOLLOWER_IDENT:  # != 'master':
+        if options.write_idents and provision.FOLLOWER_IDENT:  # != 'main':
             with open(options.write_idents, "a") as file_:
                 file_.write(provision.FOLLOWER_IDENT + " " + db_url + "\n")
 
